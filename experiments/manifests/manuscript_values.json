@@ -1,0 +1,527 @@
+{
+  "status": "Transcribed from local draft. NOT verified measurements. Preserve printed units; do not silently correct.",
+  "rows": [
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "easy_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.63,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "easy_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.46,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "medium_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.13,
+      "plus_minus_as_printed": 0.03
+    },
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "medium_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.1,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "hard_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.05,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "ThinkGrasp",
+      "setting": "hard_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.15,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "easy_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.71,
+      "plus_minus_as_printed": 0.73
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "easy_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.66,
+      "plus_minus_as_printed": 0.83
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "medium_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.13,
+      "plus_minus_as_printed": 0.4
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "medium_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.11,
+      "plus_minus_as_printed": 0.94
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "hard_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.05,
+      "plus_minus_as_printed": 0.94
+    },
+    {
+      "table": "I",
+      "method": "FreeGrasp",
+      "setting": "hard_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.07,
+      "plus_minus_as_printed": 0.4
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "easy_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.97,
+      "plus_minus_as_printed": 1.15
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "easy_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.77,
+      "plus_minus_as_printed": 0.04
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "medium_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.2,
+      "plus_minus_as_printed": 0.06
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "medium_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.15,
+      "plus_minus_as_printed": 0.02
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "hard_no_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.13,
+      "plus_minus_as_printed": 0.0
+    },
+    {
+      "table": "I",
+      "method": "MaskedGrasp",
+      "setting": "hard_yes_ambi",
+      "metric": "SSR_as_printed",
+      "value": 0.09,
+      "plus_minus_as_printed": 0.83
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.753
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 9.545
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 8.227
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.511
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": 32.98
+    },
+    {
+      "table": "II",
+      "method": "VLG",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": 25.27
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.438
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 4.88
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 5.866
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.0
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": null
+    },
+    {
+      "table": "II",
+      "method": "OVGrasp",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": null
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.933
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 3.74
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 3.4
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.778
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": 23.51
+    },
+    {
+      "table": "II",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": 21.31
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "ball",
+      "metric": "success_rate",
+      "value": 0.467
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "ball_CI",
+      "metric": "success_rate",
+      "value": 0.867
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "container",
+      "metric": "success_rate",
+      "value": 0.067
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "container_CI",
+      "metric": "success_rate",
+      "value": 0.4
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "fruit",
+      "metric": "success_rate",
+      "value": 0.467
+    },
+    {
+      "table": "III",
+      "method": "VLG",
+      "setting": "fruit_CI",
+      "metric": "success_rate",
+      "value": 0.8
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "ball",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "ball_CI",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "container",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "container_CI",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "fruit",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "OVGrasp",
+      "setting": "fruit_CI",
+      "metric": "success_rate",
+      "value": 0
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "ball",
+      "metric": "success_rate",
+      "value": 1
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "ball_CI",
+      "metric": "success_rate",
+      "value": 0.933
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "container",
+      "metric": "success_rate",
+      "value": 0.133
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "container_CI",
+      "metric": "success_rate",
+      "value": 0.8
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "fruit",
+      "metric": "success_rate",
+      "value": 0.933
+    },
+    {
+      "table": "III",
+      "method": "MaskedGrasp",
+      "setting": "fruit_CI",
+      "metric": "success_rate",
+      "value": 0.867
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.927
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 3.8
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 3.29
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.733
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": 22.71
+    },
+    {
+      "table": "IV",
+      "method": "no_3x3",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": 20.5
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.74
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 3.97
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 3.76
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.676
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": 24.48
+    },
+    {
+      "table": "IV",
+      "method": "no_memory",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": 20.89
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "success_rate",
+      "value": 0.933
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "mean_steps",
+      "value": 3.74
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "ordinary",
+      "metric": "mean_successful_steps",
+      "value": 3.4
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "success_rate",
+      "value": 0.778
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "mean_steps",
+      "value": 23.51
+    },
+    {
+      "table": "IV",
+      "method": "MaskedGrasp",
+      "setting": "heavy",
+      "metric": "mean_successful_steps",
+      "value": 21.31
+    }
+  ]
+}

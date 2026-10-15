@@ -1,0 +1,524 @@
+[
+  {
+    "run": "2026-04-10-01-11-57-test",
+    "method": "unassigned",
+    "cases": 5,
+    "macro_success_rate": 0.64,
+    "macro_steps": 31.12,
+    "macro_successful_steps_nonempty_cases": 26.619949494949495,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 25.266666666666666,
+        "mean_successful_steps": 23.5,
+        "stored_successful_steps": 23.5,
+        "mean_reward": -21.7386796513808
+      },
+      {
+        "case": "case1",
+        "instruction": "grasp a ball",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 23.866666666666667,
+        "mean_successful_steps": 22.0,
+        "stored_successful_steps": 22.0,
+        "mean_reward": -20.244648777677988
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.0,
+        "mean_steps": 37.4,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": -31.869994743123378
+      },
+      {
+        "case": "case3",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.7333333333333333,
+        "mean_steps": 27.533333333333335,
+        "mean_successful_steps": 25.09090909090909,
+        "stored_successful_steps": 25.09090909090909,
+        "mean_reward": -22.681986607982328
+      },
+      {
+        "case": "case4",
+        "instruction": "I need a fruit",
+        "success_rate": 0.6,
+        "mean_steps": 41.53333333333333,
+        "mean_successful_steps": 35.888888888888886,
+        "stored_successful_steps": 35.888888888888886,
+        "mean_reward": -37.1736942945491
+      }
+    ]
+  },
+  {
+    "run": "2026-04-10-13-08-02-test",
+    "method": "unassigned",
+    "cases": 1,
+    "macro_success_rate": 1.0,
+    "macro_steps": 16.266666666666666,
+    "macro_successful_steps_nonempty_cases": 16.266666666666666,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 1.0,
+        "mean_steps": 16.266666666666666,
+        "mean_successful_steps": 16.266666666666666,
+        "stored_successful_steps": 16.266666666666666,
+        "mean_reward": -12.590012001570647
+      }
+    ]
+  },
+  {
+    "run": "2026-04-10-23-57-49-test",
+    "method": "unassigned",
+    "cases": 6,
+    "macro_success_rate": 0.6555555555555556,
+    "macro_steps": 33.56666666666666,
+    "macro_successful_steps_nonempty_cases": 29.505281385281386,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 1.0,
+        "mean_steps": 23.933333333333334,
+        "mean_successful_steps": 23.933333333333334,
+        "stored_successful_steps": 23.933333333333334,
+        "mean_reward": -20.18655618402595
+      },
+      {
+        "case": "case1",
+        "instruction": "grasp a ball",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 29.133333333333333,
+        "mean_successful_steps": 27.642857142857142,
+        "stored_successful_steps": 27.642857142857142,
+        "mean_reward": -24.779502647731217
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.0,
+        "mean_steps": 37.93333333333333,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": -32.25903264122191
+      },
+      {
+        "case": "case3",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.4666666666666667,
+        "mean_steps": 37.666666666666664,
+        "mean_successful_steps": 31.571428571428573,
+        "stored_successful_steps": 31.571428571428573,
+        "mean_reward": -32.354167156006305
+      },
+      {
+        "case": "case4",
+        "instruction": "I need a fruit",
+        "success_rate": 0.7333333333333333,
+        "mean_steps": 36.46666666666667,
+        "mean_successful_steps": 31.545454545454547,
+        "stored_successful_steps": 31.545454545454547,
+        "mean_reward": -31.191545994588946
+      },
+      {
+        "case": "case5",
+        "instruction": "I need a fruit",
+        "success_rate": 0.8,
+        "mean_steps": 36.266666666666666,
+        "mean_successful_steps": 32.833333333333336,
+        "stored_successful_steps": 32.833333333333336,
+        "mean_reward": -30.242824228469257
+      }
+    ]
+  },
+  {
+    "run": "2026-04-11-23-07-41-test",
+    "method": "unassigned",
+    "cases": 6,
+    "macro_success_rate": 0.6777777777777778,
+    "macro_steps": 24.788888888888888,
+    "macro_successful_steps_nonempty_cases": 21.9307326007326,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 0.6666666666666666,
+        "mean_steps": 31.6,
+        "mean_successful_steps": 22.4,
+        "stored_successful_steps": 22.4,
+        "mean_reward": -28.19466730230755
+      },
+      {
+        "case": "case1",
+        "instruction": "grasp a ball",
+        "success_rate": 0.8,
+        "mean_steps": 19.733333333333334,
+        "mean_successful_steps": 15.583333333333334,
+        "stored_successful_steps": 15.583333333333334,
+        "mean_reward": -16.424992741279443
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.0,
+        "mean_steps": 19.4,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": -16.681785189462627
+      },
+      {
+        "case": "case3",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.8,
+        "mean_steps": 20.933333333333334,
+        "mean_successful_steps": 19.5,
+        "stored_successful_steps": 19.5,
+        "mean_reward": -16.378413074498813
+      },
+      {
+        "case": "case4",
+        "instruction": "I need a fruit",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 29.266666666666666,
+        "mean_successful_steps": 27.785714285714285,
+        "stored_successful_steps": 27.785714285714285,
+        "mean_reward": -24.28928040750936
+      },
+      {
+        "case": "case5",
+        "instruction": "I need a fruit",
+        "success_rate": 0.8666666666666667,
+        "mean_steps": 27.8,
+        "mean_successful_steps": 24.384615384615383,
+        "stored_successful_steps": 24.384615384615383,
+        "mean_reward": -21.883897234635576
+      }
+    ]
+  },
+  {
+    "run": "2026-04-12-18-38-32-test",
+    "method": "unassigned",
+    "cases": 6,
+    "macro_success_rate": 0.0,
+    "macro_steps": 0.0,
+    "macro_successful_steps_nonempty_cases": null,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      },
+      {
+        "case": "case1",
+        "instruction": "grasp a ball",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      },
+      {
+        "case": "case3",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      },
+      {
+        "case": "case4",
+        "instruction": "I need a fruit",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      },
+      {
+        "case": "case5",
+        "instruction": "I need a fruit",
+        "success_rate": 0.0,
+        "mean_steps": 0.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": 0.0
+      }
+    ]
+  },
+  {
+    "run": "2026-04-12-19-13-41-test",
+    "method": "unassigned",
+    "cases": 1,
+    "macro_success_rate": 0.0,
+    "macro_steps": 50.0,
+    "macro_successful_steps_nonempty_cases": null,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a ball",
+        "success_rate": 0.0,
+        "mean_steps": 50.0,
+        "mean_successful_steps": null,
+        "stored_successful_steps": 1000.0,
+        "mean_reward": -50.0
+      }
+    ]
+  },
+  {
+    "run": "2026-04-12-21-41-19-test",
+    "method": "unassigned",
+    "cases": 10,
+    "macro_success_rate": 0.9066666666666666,
+    "macro_steps": 11.540000000000001,
+    "macro_successful_steps_nonempty_cases": 10.408333333333333,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a round object",
+        "success_rate": 1.0,
+        "mean_steps": 1.0,
+        "mean_successful_steps": 1.0,
+        "stored_successful_steps": 1.0,
+        "mean_reward": 2.0
+      },
+      {
+        "case": "case1",
+        "instruction": "get something to eat",
+        "success_rate": 1.0,
+        "mean_steps": 2.466666666666667,
+        "mean_successful_steps": 2.466666666666667,
+        "stored_successful_steps": 2.466666666666667,
+        "mean_reward": 0.5333333333333333
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.6666666666666666,
+        "mean_steps": 34.2,
+        "mean_successful_steps": 29.3,
+        "stored_successful_steps": 29.3,
+        "mean_reward": -27.414325973204896
+      },
+      {
+        "case": "case3",
+        "instruction": "I want a round object",
+        "success_rate": 1.0,
+        "mean_steps": 5.066666666666666,
+        "mean_successful_steps": 5.066666666666666,
+        "stored_successful_steps": 5.066666666666666,
+        "mean_reward": -1.8876418015505432
+      },
+      {
+        "case": "case4",
+        "instruction": "give me the cup",
+        "success_rate": 1.0,
+        "mean_steps": 18.466666666666665,
+        "mean_successful_steps": 18.466666666666665,
+        "stored_successful_steps": 18.466666666666665,
+        "mean_reward": -15.13570725309516
+      },
+      {
+        "case": "case5",
+        "instruction": "I need a cup",
+        "success_rate": 0.8,
+        "mean_steps": 32.6,
+        "mean_successful_steps": 28.25,
+        "stored_successful_steps": 28.25,
+        "mean_reward": -29.824750894683877
+      },
+      {
+        "case": "case6",
+        "instruction": "I need a fruit",
+        "success_rate": 1.0,
+        "mean_steps": 8.6,
+        "mean_successful_steps": 8.6,
+        "stored_successful_steps": 8.6,
+        "mean_reward": -5.505126991741255
+      },
+      {
+        "case": "case7",
+        "instruction": "get something to drink",
+        "success_rate": 0.6666666666666666,
+        "mean_steps": 4.6,
+        "mean_successful_steps": 5.7,
+        "stored_successful_steps": 5.7,
+        "mean_reward": -1.3325643367619826
+      },
+      {
+        "case": "case8",
+        "instruction": "give me the thera_med",
+        "success_rate": 1.0,
+        "mean_steps": 2.7333333333333334,
+        "mean_successful_steps": 2.7333333333333334,
+        "stored_successful_steps": 2.7333333333333334,
+        "mean_reward": 0.31036777455456976
+      },
+      {
+        "case": "case9",
+        "instruction": "give me the pear",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 5.666666666666667,
+        "mean_successful_steps": 2.5,
+        "stored_successful_steps": 2.5,
+        "mean_reward": -2.4398249079260057
+      }
+    ]
+  },
+  {
+    "run": "2026-04-13-13-15-55-test",
+    "method": "unassigned",
+    "cases": 10,
+    "macro_success_rate": 0.9133333333333333,
+    "macro_steps": 9.98,
+    "macro_successful_steps_nonempty_cases": 8.912928737928738,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a round object",
+        "success_rate": 1.0,
+        "mean_steps": 4.4,
+        "mean_successful_steps": 4.4,
+        "stored_successful_steps": 4.4,
+        "mean_reward": -1.0349176717259951
+      },
+      {
+        "case": "case1",
+        "instruction": "get something to eat",
+        "success_rate": 1.0,
+        "mean_steps": 1.7333333333333334,
+        "mean_successful_steps": 1.7333333333333334,
+        "stored_successful_steps": 1.7333333333333334,
+        "mean_reward": 1.2666666666666666
+      },
+      {
+        "case": "case2",
+        "instruction": "get something to hold other things",
+        "success_rate": 0.8,
+        "mean_steps": 35.4,
+        "mean_successful_steps": 33.75,
+        "stored_successful_steps": 33.75,
+        "mean_reward": -28.856488195001898
+      },
+      {
+        "case": "case3",
+        "instruction": "I want a round object",
+        "success_rate": 0.8666666666666667,
+        "mean_steps": 4.466666666666667,
+        "mean_successful_steps": 3.769230769230769,
+        "stored_successful_steps": 3.769230769230769,
+        "mean_reward": -1.7386171364957912
+      },
+      {
+        "case": "case4",
+        "instruction": "give me the cup",
+        "success_rate": 1.0,
+        "mean_steps": 6.2,
+        "mean_successful_steps": 6.2,
+        "stored_successful_steps": 6.2,
+        "mean_reward": -2.8706948008367243
+      },
+      {
+        "case": "case5",
+        "instruction": "I need a cup",
+        "success_rate": 0.8666666666666667,
+        "mean_steps": 23.733333333333334,
+        "mean_successful_steps": 19.692307692307693,
+        "stored_successful_steps": 19.692307692307693,
+        "mean_reward": -20.624723960662447
+      },
+      {
+        "case": "case6",
+        "instruction": "I need a fruit",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 8.533333333333333,
+        "mean_successful_steps": 5.571428571428571,
+        "stored_successful_steps": 5.571428571428571,
+        "mean_reward": -5.688376148441029
+      },
+      {
+        "case": "case7",
+        "instruction": "get something to drink",
+        "success_rate": 0.7333333333333333,
+        "mean_steps": 11.933333333333334,
+        "mean_successful_steps": 10.727272727272727,
+        "stored_successful_steps": 10.727272727272727,
+        "mean_reward": -7.652881714379403
+      },
+      {
+        "case": "case8",
+        "instruction": "give me the thera_med",
+        "success_rate": 1.0,
+        "mean_steps": 2.0,
+        "mean_successful_steps": 2.0,
+        "stored_successful_steps": 2.0,
+        "mean_reward": 1.142190821580836
+      },
+      {
+        "case": "case9",
+        "instruction": "give me the pear",
+        "success_rate": 0.9333333333333333,
+        "mean_steps": 1.4,
+        "mean_successful_steps": 1.2857142857142858,
+        "stored_successful_steps": 1.2857142857142858,
+        "mean_reward": 1.436094232158059
+      }
+    ]
+  },
+  {
+    "run": "2026-06-14-13-29-37-test",
+    "method": "unassigned",
+    "cases": 1,
+    "macro_success_rate": 1.0,
+    "macro_steps": 1.0,
+    "macro_successful_steps_nonempty_cases": 1.0,
+    "pooled_successful_steps": null,
+    "note": "Pooled success-conditioned mean requires per-episode counts. Zero-success sentinel 1000 excluded.",
+    "per_case": [
+      {
+        "case": "case0",
+        "instruction": "grasp a round object",
+        "success_rate": 1.0,
+        "mean_steps": 1.0,
+        "mean_successful_steps": 1.0,
+        "stored_successful_steps": 1.0,
+        "mean_reward": 2.0
+      }
+    ]
+  }
+]

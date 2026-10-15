@@ -1,0 +1,7 @@
+table,method_or_condition,located_evidence,status,derived_file_or_note
+I,ThinkGrasp,not located,No authenticated local baseline predictions,Upstream v1 differs at Medium/ambiguous
+I,FreeGrasp,output1/out_*_split*.json,Means and 900-record membership verified; method identity and spread unresolved,reasoning_counts.csv
+I,MaskedGrasp,target_id/freegrasp_ssr_results.json (candidate only),ID matching is not segmentation SSR; only two means coincide,reasoning_counts.csv
+II,VLG / OVGrasp / Ours,simulation results and ordinary/heavy scene definitions,Unassigned runs; no matching full metric triples,simulation_recomputed.json
+III,"six tasks, including CI",heavy_unseen scene pairs,Literal paired instructions identical; CI prompt and result assignment missing,scenes.json
+IV,no_3x3 / no_memory / full,current memory utility and grid preference code,No archived ablation configuration or verified run correspondence,simulation_runs.json

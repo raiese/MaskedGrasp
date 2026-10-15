@@ -1,0 +1,386 @@
+[
+  {
+    "path": "run.py",
+    "source_root": "FreeGrasp_code",
+    "source": "run.py",
+    "source_sha256": "068f30019bc7b06be6cccca2263bfd2845686737a15adffbe48688a95c979b77",
+    "candidate_sha256": "b19f69ee191dd526c7f1face18192ab9d6e3faf8136b6833a62bf46527717c14",
+    "changed": true
+  },
+  {
+    "path": "grasp_model.py",
+    "source_root": "FreeGrasp_code",
+    "source": "grasp_model.py",
+    "source_sha256": "4a4b89ee07a989a3ae661cb564ebe9dd926a5029102872924798eec5a44a9c5c",
+    "candidate_sha256": "4a4b89ee07a989a3ae661cb564ebe9dd926a5029102872924798eec5a44a9c5c",
+    "changed": false
+  },
+  {
+    "path": "molmo_eval.py",
+    "source_root": "FreeGrasp_code",
+    "source": "molmo_eval.py",
+    "source_sha256": "78914e9ef9e1dc4f753a37fd9b6a38ec0660f8d6eff8f76e7b8b53affedcdc86",
+    "candidate_sha256": "cca0eb7c699a1f2485fc972a493847a9ab6f10c5d7ba3d249e9ee4a30db035cd",
+    "changed": true
+  },
+  {
+    "path": "reasoning_eval.py",
+    "source_root": "FreeGrasp_code",
+    "source": "reasoning_eval.py",
+    "source_sha256": "33b547ca8cc38ac486522f309982d4251094c851bb5d6decbccfa8b2e903f857",
+    "candidate_sha256": "402d200a0d4ef522bf98698f6f0d1660a7c63d094560a8b852719f5ef9292384",
+    "changed": true
+  },
+  {
+    "path": "qwen_service.py",
+    "source_root": "FreeGrasp_code",
+    "source": "qwen_service.py",
+    "source_sha256": "1f9d62109ea412a443beddee0d1f534f9f46cf8a002e3f84a59c1368ce8a1b1a",
+    "candidate_sha256": "f293ff263613bf622cb405fca577f604f607c1443ce855cdc7f5ae12ad5fa8dc",
+    "changed": true
+  },
+  {
+    "path": "remote_server.py",
+    "source_root": "FreeGrasp_code",
+    "source": "remote_server.py",
+    "source_sha256": "bbf05d29f08adf776d274b48dad1a08297eb7927c079009f030bd72763f9cf8d",
+    "candidate_sha256": "b10b48ad916b7f55ee824f724c804b6941591ae4f2489b0f1ae6c31cfc75758d",
+    "changed": true
+  },
+  {
+    "path": "utils/config.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/config.py",
+    "source_sha256": "b40717f74e96cd0b5ce161bfb82b84e0ae743e36b88bfef3637cd55f1bd49c4f",
+    "candidate_sha256": "248269ca79a616e92afadabe397461b5f172229cb15e570e55c46e65d68c163d",
+    "changed": true
+  },
+  {
+    "path": "utils/__init__.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "candidate_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "changed": false
+  },
+  {
+    "path": "utils/graspnet_utils.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/graspnet_utils.py",
+    "source_sha256": "819c21d3f29f20450c137954fbb38779a96eb979c07b2dd4c5ba91ac161b0d82",
+    "candidate_sha256": "819c21d3f29f20450c137954fbb38779a96eb979c07b2dd4c5ba91ac161b0d82",
+    "changed": false
+  },
+  {
+    "path": "utils/utils.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/utils.py",
+    "source_sha256": "903af3baa1b146318d36024f47b4d696246a8bcfc892f2f58dc944eb5f461ab7",
+    "candidate_sha256": "903af3baa1b146318d36024f47b4d696246a8bcfc892f2f58dc944eb5f461ab7",
+    "changed": false
+  },
+  {
+    "path": "utils/constants.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/constants.py",
+    "source_sha256": "0697c41eee58522e32a990c9bed7496227f38b0a83a1bbc1fccb398d5e78f62b",
+    "candidate_sha256": "0697c41eee58522e32a990c9bed7496227f38b0a83a1bbc1fccb398d5e78f62b",
+    "changed": false
+  },
+  {
+    "path": "utils/vila_client.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/vila_client.py",
+    "source_sha256": "10d116ffd751b28f5a6b514c8c9a23e216dc7bfd7385d4aa30ca7ee9d8ff6a65",
+    "candidate_sha256": "10d116ffd751b28f5a6b514c8c9a23e216dc7bfd7385d4aa30ca7ee9d8ff6a65",
+    "changed": false
+  },
+  {
+    "path": "utils/state_memory.py",
+    "source_root": "FreeGrasp_code",
+    "source": "utils/state_memory.py",
+    "source_sha256": "6c7652f75a6f82726430f83750ad69c2221a92a3ecd43f6a7e92267109928a6c",
+    "candidate_sha256": "6c7652f75a6f82726430f83750ad69c2221a92a3ecd43f6a7e92267109928a6c",
+    "changed": false
+  },
+  {
+    "path": "tests/test_state_memory.py",
+    "source_root": "FreeGrasp_code",
+    "source": "tests/test_state_memory.py",
+    "source_sha256": "6f268dd2ce7a82c310b4ddf270ab8ead877a21fc91f1f4272f07385c66225764",
+    "candidate_sha256": "6f268dd2ce7a82c310b4ddf270ab8ead877a21fc91f1f4272f07385c66225764",
+    "changed": false
+  },
+  {
+    "path": "models/langsam/langsam_actor.py",
+    "source_root": "FreeGrasp_code",
+    "source": "models/langsam/langsam_actor.py",
+    "source_sha256": "6e5cf8d6bbd7770432b0f5bcd53d0162807c6d36c156eb42846fdb170718460e",
+    "candidate_sha256": "5e4fa262e56411b00f6310409a2143ebdcb80df907d72b801eb9817aed9e6168",
+    "changed": true
+  },
+  {
+    "path": "models/langsam/langsamutils.py",
+    "source_root": "FreeGrasp_code",
+    "source": "models/langsam/langsamutils.py",
+    "source_sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "candidate_sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "changed": false
+  },
+  {
+    "path": "simulation/simulation_main.py",
+    "source_root": "ThinkGrasp",
+    "source": "simulation_main.py",
+    "source_sha256": "a9142c80e4b6843c732f1d3f7c96b6daee510bbad718d7a8ca40124f0cea3722",
+    "candidate_sha256": "8535e8f07cf794407846f7fa6938737c75f91a54d8eb8c38845a9dad09b5f17b",
+    "changed": true
+  },
+  {
+    "path": "simulation/environment_sim.py",
+    "source_root": "ThinkGrasp",
+    "source": "environment_sim.py",
+    "source_sha256": "da43c5e20c084fb063fc387343c2a3aa7386eaee2b04cddbb5f3ec1fc3e35194",
+    "candidate_sha256": "da43c5e20c084fb063fc387343c2a3aa7386eaee2b04cddbb5f3ec1fc3e35194",
+    "changed": false
+  },
+  {
+    "path": "simulation/cameras.py",
+    "source_root": "ThinkGrasp",
+    "source": "cameras.py",
+    "source_sha256": "62a8cced36d5c345bb46588a9d884d25e8cbc795c28201618b61edc47ab8424d",
+    "candidate_sha256": "62a8cced36d5c345bb46588a9d884d25e8cbc795c28201618b61edc47ab8424d",
+    "changed": false
+  },
+  {
+    "path": "simulation/constants.py",
+    "source_root": "ThinkGrasp",
+    "source": "constants.py",
+    "source_sha256": "d9310387d2e2a711b26f30f401ebf241346e061750707dcb424826d82139fe00",
+    "candidate_sha256": "d9310387d2e2a711b26f30f401ebf241346e061750707dcb424826d82139fe00",
+    "changed": false
+  },
+  {
+    "path": "simulation/logger.py",
+    "source_root": "ThinkGrasp",
+    "source": "logger.py",
+    "source_sha256": "262b9bfbf93944daa234c61d54b3d5c10966708932e2f791a9b9cb41e33216be",
+    "candidate_sha256": "262b9bfbf93944daa234c61d54b3d5c10966708932e2f791a9b9cb41e33216be",
+    "changed": false
+  },
+  {
+    "path": "simulation/grasp_detetor.py",
+    "source_root": "ThinkGrasp",
+    "source": "grasp_detetor.py",
+    "source_sha256": "916b59d8f126ecae10ec5b6164549a835eeaf0dc0c1f45d4eaff4b02159ec7f0",
+    "candidate_sha256": "916b59d8f126ecae10ec5b6164549a835eeaf0dc0c1f45d4eaff4b02159ec7f0",
+    "changed": false
+  },
+  {
+    "path": "simulation/utils.py",
+    "source_root": "ThinkGrasp",
+    "source": "utils.py",
+    "source_sha256": "a38ff68e0fc7c66a4d34c2d3009dbb1f395254d9151625d5c9b37c2123e9437b",
+    "candidate_sha256": "a38ff68e0fc7c66a4d34c2d3009dbb1f395254d9151625d5c9b37c2123e9437b",
+    "changed": false
+  },
+  {
+    "path": "simulation/qwen_remote_server.py",
+    "source_root": "ThinkGrasp",
+    "source": "qwen_remote_server.py",
+    "source_sha256": "f93f4481889b3df2bc217412c36f08594fee64578dce4165ad0fcf451e42d72e",
+    "candidate_sha256": "76f80b0abab89fdab9d3a29b4146f30767b010d4f8c5e600740103f986a08375",
+    "changed": true
+  },
+  {
+    "path": "simulation/langsam/sam_actor.py",
+    "source_root": "ThinkGrasp",
+    "source": "langsam/sam_actor.py",
+    "source_sha256": "fb2212be18765cf7eeebeafdc57df42eff6c5cc157c93b27c6f6fa3a001718a6",
+    "candidate_sha256": "fb2212be18765cf7eeebeafdc57df42eff6c5cc157c93b27c6f6fa3a001718a6",
+    "changed": false
+  },
+  {
+    "path": "simulation/langsam/langsam_actor.py",
+    "source_root": "ThinkGrasp",
+    "source": "langsam/langsam_actor.py",
+    "source_sha256": "94f56f5175daa177edd4bf0b72aa163fb5bf48a7ab97b0ba52ea31fd60783059",
+    "candidate_sha256": "2eafc991ca89528248b095d329dcbe86d6b09fa224079e06382f2e74142c8edf",
+    "changed": true
+  },
+  {
+    "path": "simulation/langsam/langsamutils.py",
+    "source_root": "ThinkGrasp",
+    "source": "langsam/langsamutils.py",
+    "source_sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "candidate_sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "changed": false
+  },
+  {
+    "path": "simulation/langsam/GroundingDINO_SwinB_local_bert.cfg.py",
+    "source_root": "ThinkGrasp",
+    "source": "langsam/GroundingDINO_SwinB_local_bert.cfg.py",
+    "source_sha256": "35b1258f4a824805b365bae578a01612bfc488da2551c3dc83a40f99b56eb77a",
+    "candidate_sha256": "48bebe16d1c91d1396b4cb5b81198abe2981ac9d0e02bf6d8021c2321bb259ae",
+    "changed": true
+  },
+  {
+    "path": "evaluate_target_ids.py",
+    "source_root": "ThinkGrasp",
+    "source": "evaluate_freegrasp_ssr.py",
+    "source_sha256": "e0607edec227de2d4c985199ef28410afbfd8f97dd2aa2b1181bea2f148cd0a4",
+    "candidate_sha256": "fcef1ff9aeb511d52d95f7003770cace252d7d2b2afe48c6a55364b4affb3b4f",
+    "changed": true
+  },
+  {
+    "path": "simulation/testing_cases/case05-cup.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case05-cup.txt",
+    "source_sha256": "74011a45c0f2d8843e97eab782fa79860d19ee186e7ed882c5f81e5adcdefa0a",
+    "candidate_sha256": "74011a45c0f2d8843e97eab782fa79860d19ee186e7ed882c5f81e5adcdefa0a",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case08-thera_med.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case08-thera_med.txt",
+    "source_sha256": "99e9b79e76a15e5c1a0cdb0b823b2d611f9672d814ab51c5699f2191dcd30d76",
+    "candidate_sha256": "99e9b79e76a15e5c1a0cdb0b823b2d611f9672d814ab51c5699f2191dcd30d76",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case06-fruit.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case06-fruit.txt",
+    "source_sha256": "75a06ecd54ce29c31f602ea06ce5ab4bcae5570ac4fdd05ec82c945bd17a4d56",
+    "candidate_sha256": "75a06ecd54ce29c31f602ea06ce5ab4bcae5570ac4fdd05ec82c945bd17a4d56",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case09-pear.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case09-pear.txt",
+    "source_sha256": "d1e45b100fa1f6a257a57b44999991135725de5dd87008c001d736a1f7b55f33",
+    "candidate_sha256": "d1e45b100fa1f6a257a57b44999991135725de5dd87008c001d736a1f7b55f33",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case02-container.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case02-container.txt",
+    "source_sha256": "e58fc2bc4d1524032491557a57f3b2f4a477fc7b6980f5c67a54bdbad2defd94",
+    "candidate_sha256": "e58fc2bc4d1524032491557a57f3b2f4a477fc7b6980f5c67a54bdbad2defd94",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case04-cup.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case04-cup.txt",
+    "source_sha256": "81b9a65a984d5f994c93c64149091535d4ff4e35767bb55d2245c0a4372e439f",
+    "candidate_sha256": "81b9a65a984d5f994c93c64149091535d4ff4e35767bb55d2245c0a4372e439f",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case03-round.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case03-round.txt",
+    "source_sha256": "5f865b61c235732c2b020293d5086ae46000279515668d16f92d8b92a5955aa2",
+    "candidate_sha256": "5f865b61c235732c2b020293d5086ae46000279515668d16f92d8b92a5955aa2",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case00-round.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case00-round.txt",
+    "source_sha256": "8fbf09f85edb57e8429d24507fcf0b4af4e51c4fd5dbca90853cccb45981a339",
+    "candidate_sha256": "8fbf09f85edb57e8429d24507fcf0b4af4e51c4fd5dbca90853cccb45981a339",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case07-drink.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case07-drink.txt",
+    "source_sha256": "b1603e3473a1aaa499a100b05d50f658f9aa8b7b692ff599db3b4c21023f9a54",
+    "candidate_sha256": "b1603e3473a1aaa499a100b05d50f658f9aa8b7b692ff599db3b4c21023f9a54",
+    "changed": false
+  },
+  {
+    "path": "simulation/testing_cases/case01-eat.txt",
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case01-eat.txt",
+    "source_sha256": "7f3203d9dc46e2950d9ca4c08fded1abe7b4c0c0ac71dd35ac44e5054c797076",
+    "candidate_sha256": "7f3203d9dc46e2950d9ca4c08fded1abe7b4c0c0ac71dd35ac44e5054c797076",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case04-fruit.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case04-fruit.txt",
+    "source_sha256": "14cc2a0ca553de0f368e0ded949a93f94bdc19553c0aad8faa8ad0e62039454e",
+    "candidate_sha256": "14cc2a0ca553de0f368e0ded949a93f94bdc19553c0aad8faa8ad0e62039454e",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case02-container.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case02-container.txt",
+    "source_sha256": "100cf0105bb19c8df0eba6fb61879de9aa38ebd7a8b986dcd9dd3b10cf9edd06",
+    "candidate_sha256": "100cf0105bb19c8df0eba6fb61879de9aa38ebd7a8b986dcd9dd3b10cf9edd06",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case03-container_hard.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case03-container_hard.txt",
+    "source_sha256": "9bdf049726fc569ea9c0685b816b6eef8d086e8dba42b04c293d940182e8db45",
+    "candidate_sha256": "9bdf049726fc569ea9c0685b816b6eef8d086e8dba42b04c293d940182e8db45",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case05-fruit_hard.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case05-fruit_hard.txt",
+    "source_sha256": "5b05dbc8edd3926307f385f598beb4a500c7bf5b5e54283e0a5059df9988c464",
+    "candidate_sha256": "5b05dbc8edd3926307f385f598beb4a500c7bf5b5e54283e0a5059df9988c464",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case00-round.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case00-round.txt",
+    "source_sha256": "d09b639f086223d8701dbd83c5305097f3ce7377d6827fb828f87decae03677b",
+    "candidate_sha256": "d09b639f086223d8701dbd83c5305097f3ce7377d6827fb828f87decae03677b",
+    "changed": false
+  },
+  {
+    "path": "simulation/heavy_unseen/case01-round_hard.txt",
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case01-round_hard.txt",
+    "source_sha256": "137e6a888f48007fcecbc8f7efca88e64589de8aaa3597a8b8ef27c9ee5d40f8",
+    "candidate_sha256": "137e6a888f48007fcecbc8f7efca88e64589de8aaa3597a8b8ef27c9ee5d40f8",
+    "changed": false
+  },
+  {
+    "path": "licenses/FreeGrasp-CC-BY-NC-4.0.txt",
+    "source_root": "FreeGrasp_code",
+    "source": "LICENCE",
+    "source_sha256": "98679f478515c0f5c50e720006d12b4c3800d488e8dccca4e59a657efbb86c6e",
+    "candidate_sha256": "98679f478515c0f5c50e720006d12b4c3800d488e8dccca4e59a657efbb86c6e",
+    "changed": false
+  },
+  {
+    "path": "licenses/ThinkGrasp-MIT.txt",
+    "source_root": "ThinkGrasp",
+    "source": "LICENSE",
+    "source_sha256": "525d8c33dd0a7cc411d232984c9482318bd211916d0df68ccf4082028f608a7f",
+    "candidate_sha256": "525d8c33dd0a7cc411d232984c9482318bd211916d0df68ccf4082028f608a7f",
+    "changed": false
+  },
+  {
+    "path": "licenses/GraspNet-baseline-original.txt",
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/LICENSE",
+    "source_sha256": "a685959614b960ed104bef76a746183c56951aa1126e188e577b0502c3a976ce",
+    "candidate_sha256": "a685959614b960ed104bef76a746183c56951aa1126e188e577b0502c3a976ce",
+    "changed": false
+  }
+]

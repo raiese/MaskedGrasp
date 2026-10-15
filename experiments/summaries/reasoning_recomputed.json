@@ -1,0 +1,234 @@
+[
+  {
+    "collection": "output",
+    "metric": "recorded_segmentation_success",
+    "subset": "easy_no_ambi",
+    "n_splits": 1,
+    "complete_expected_3x50": false,
+    "total": 23,
+    "correct": 12,
+    "mean": null,
+    "population_sd": null,
+    "sample_sd": null,
+    "observed_rates": [
+      0.5217391304347826
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "easy_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 106,
+    "mean": 0.7066666666666667,
+    "population_sd": 0.05734883511361752,
+    "sample_sd": 0.07023769168568493,
+    "observed_rates": [
+      0.64,
+      0.78,
+      0.7
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "easy_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 99,
+    "mean": 0.66,
+    "population_sd": 0.028284271247461874,
+    "sample_sd": 0.03464101615137751,
+    "observed_rates": [
+      0.64,
+      0.64,
+      0.7
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "hard_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 8,
+    "mean": 0.05333333333333333,
+    "population_sd": 0.009428090415820633,
+    "sample_sd": 0.011547005383792512,
+    "observed_rates": [
+      0.04,
+      0.06,
+      0.06
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "hard_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 11,
+    "mean": 0.07333333333333333,
+    "population_sd": 0.033993463423951896,
+    "sample_sd": 0.041633319989322654,
+    "observed_rates": [
+      0.12,
+      0.06,
+      0.04
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "medium_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 19,
+    "mean": 0.12666666666666668,
+    "population_sd": 0.0339934634239519,
+    "sample_sd": 0.041633319989322654,
+    "observed_rates": [
+      0.16,
+      0.14,
+      0.08
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "output1",
+    "metric": "recorded_segmentation_success",
+    "subset": "medium_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 16,
+    "mean": 0.10666666666666667,
+    "population_sd": 0.009428090415820628,
+    "sample_sd": 0.011547005383792509,
+    "observed_rates": [
+      0.12,
+      0.1,
+      0.1
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "easy_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 146,
+    "mean": 0.9733333333333333,
+    "population_sd": 0.009428090415820642,
+    "sample_sd": 0.011547005383792526,
+    "observed_rates": [
+      0.98,
+      0.98,
+      0.96
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "easy_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 116,
+    "mean": 0.7733333333333333,
+    "population_sd": 0.05734883511361752,
+    "sample_sd": 0.07023769168568493,
+    "observed_rates": [
+      0.78,
+      0.84,
+      0.7
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "hard_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 9,
+    "mean": 0.06,
+    "population_sd": 0.0,
+    "sample_sd": 0.0,
+    "observed_rates": [
+      0.06,
+      0.06,
+      0.06
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "hard_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 12,
+    "mean": 0.08,
+    "population_sd": 0.0282842712474619,
+    "sample_sd": 0.034641016151377546,
+    "observed_rates": [
+      0.06,
+      0.12,
+      0.06
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "medium_no_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 23,
+    "mean": 0.15333333333333332,
+    "population_sd": 0.024944382578492942,
+    "sample_sd": 0.030550504633038933,
+    "observed_rates": [
+      0.16,
+      0.12,
+      0.18
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  },
+  {
+    "collection": "target_id_results",
+    "metric": "target_id_membership",
+    "subset": "medium_yes_ambi",
+    "n_splits": 3,
+    "complete_expected_3x50": true,
+    "total": 150,
+    "correct": 15,
+    "mean": 0.1,
+    "population_sd": 0.01632993161855452,
+    "sample_sd": 0.019999999999999997,
+    "observed_rates": [
+      0.12,
+      0.08,
+      0.1
+    ],
+    "note": "All units are proportions. SD across instruction splits; not repeated seeds."
+  }
+]

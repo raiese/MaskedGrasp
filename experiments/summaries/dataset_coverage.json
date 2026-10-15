@@ -1,0 +1,169 @@
+{
+  "rows": 900,
+  "unique_scene_ids": 291,
+  "unique_scene_target_pairs": 300,
+  "checks": [
+    {
+      "subset": "easy_no_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "easy_no_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "easy_no_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "easy_yes_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "easy_yes_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "easy_yes_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_no_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_no_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_no_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_yes_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_yes_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "medium_yes_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_no_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_no_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_no_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_yes_ambi",
+      "split": "0",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_yes_ambi",
+      "split": "1",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    },
+    {
+      "subset": "hard_yes_ambi",
+      "split": "2",
+      "expected": 50,
+      "observed": 50,
+      "missing": 0,
+      "extra": 0,
+      "duplicates": 0
+    }
+  ]
+}

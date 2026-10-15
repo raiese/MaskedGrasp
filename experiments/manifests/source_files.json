@@ -1,0 +1,1544 @@
+[
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "run.py",
+    "sha256": "068f30019bc7b06be6cccca2263bfd2845686737a15adffbe48688a95c979b77",
+    "destination": "MaskedGrasp/run.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "grasp_model.py",
+    "sha256": "4a4b89ee07a989a3ae661cb564ebe9dd926a5029102872924798eec5a44a9c5c",
+    "destination": "MaskedGrasp/grasp_model.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "molmo_eval.py",
+    "sha256": "78914e9ef9e1dc4f753a37fd9b6a38ec0660f8d6eff8f76e7b8b53affedcdc86",
+    "destination": "MaskedGrasp/molmo_eval.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "reasoning_eval.py",
+    "sha256": "33b547ca8cc38ac486522f309982d4251094c851bb5d6decbccfa8b2e903f857",
+    "destination": "MaskedGrasp/reasoning_eval.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "qwen_service.py",
+    "sha256": "1f9d62109ea412a443beddee0d1f534f9f46cf8a002e3f84a59c1368ce8a1b1a",
+    "destination": "MaskedGrasp/qwen_service.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "remote_server.py",
+    "sha256": "bbf05d29f08adf776d274b48dad1a08297eb7927c079009f030bd72763f9cf8d",
+    "destination": "MaskedGrasp/remote_server.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/config.py",
+    "sha256": "b40717f74e96cd0b5ce161bfb82b84e0ae743e36b88bfef3637cd55f1bd49c4f",
+    "destination": "MaskedGrasp/utils/config.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "destination": "MaskedGrasp/utils/__init__.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/graspnet_utils.py",
+    "sha256": "819c21d3f29f20450c137954fbb38779a96eb979c07b2dd4c5ba91ac161b0d82",
+    "destination": "MaskedGrasp/utils/graspnet_utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/utils.py",
+    "sha256": "903af3baa1b146318d36024f47b4d696246a8bcfc892f2f58dc944eb5f461ab7",
+    "destination": "MaskedGrasp/utils/utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/constants.py",
+    "sha256": "0697c41eee58522e32a990c9bed7496227f38b0a83a1bbc1fccb398d5e78f62b",
+    "destination": "MaskedGrasp/utils/constants.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/vila_client.py",
+    "sha256": "10d116ffd751b28f5a6b514c8c9a23e216dc7bfd7385d4aa30ca7ee9d8ff6a65",
+    "destination": "MaskedGrasp/utils/vila_client.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "utils/state_memory.py",
+    "sha256": "6c7652f75a6f82726430f83750ad69c2221a92a3ecd43f6a7e92267109928a6c",
+    "destination": "MaskedGrasp/utils/state_memory.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "tests/test_state_memory.py",
+    "sha256": "6f268dd2ce7a82c310b4ddf270ab8ead877a21fc91f1f4272f07385c66225764",
+    "destination": "MaskedGrasp/tests/test_state_memory.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/langsam/langsam_actor.py",
+    "sha256": "6e5cf8d6bbd7770432b0f5bcd53d0162807c6d36c156eb42846fdb170718460e",
+    "destination": "MaskedGrasp/models/langsam/langsam_actor.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/langsam/langsamutils.py",
+    "sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "destination": "MaskedGrasp/models/langsam/langsamutils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "simulation_main.py",
+    "sha256": "a9142c80e4b6843c732f1d3f7c96b6daee510bbad718d7a8ca40124f0cea3722",
+    "destination": "MaskedGrasp/simulation/simulation_main.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "environment_sim.py",
+    "sha256": "da43c5e20c084fb063fc387343c2a3aa7386eaee2b04cddbb5f3ec1fc3e35194",
+    "destination": "MaskedGrasp/simulation/environment_sim.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "cameras.py",
+    "sha256": "62a8cced36d5c345bb46588a9d884d25e8cbc795c28201618b61edc47ab8424d",
+    "destination": "MaskedGrasp/simulation/cameras.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "constants.py",
+    "sha256": "d9310387d2e2a711b26f30f401ebf241346e061750707dcb424826d82139fe00",
+    "destination": "MaskedGrasp/simulation/constants.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logger.py",
+    "sha256": "262b9bfbf93944daa234c61d54b3d5c10966708932e2f791a9b9cb41e33216be",
+    "destination": "MaskedGrasp/simulation/logger.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "grasp_detetor.py",
+    "sha256": "916b59d8f126ecae10ec5b6164549a835eeaf0dc0c1f45d4eaff4b02159ec7f0",
+    "destination": "MaskedGrasp/simulation/grasp_detetor.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "utils.py",
+    "sha256": "a38ff68e0fc7c66a4d34c2d3009dbb1f395254d9151625d5c9b37c2123e9437b",
+    "destination": "MaskedGrasp/simulation/utils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "qwen_remote_server.py",
+    "sha256": "f93f4481889b3df2bc217412c36f08594fee64578dce4165ad0fcf451e42d72e",
+    "destination": "MaskedGrasp/simulation/qwen_remote_server.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "langsam/sam_actor.py",
+    "sha256": "fb2212be18765cf7eeebeafdc57df42eff6c5cc157c93b27c6f6fa3a001718a6",
+    "destination": "MaskedGrasp/simulation/langsam/sam_actor.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "langsam/langsam_actor.py",
+    "sha256": "94f56f5175daa177edd4bf0b72aa163fb5bf48a7ab97b0ba52ea31fd60783059",
+    "destination": "MaskedGrasp/simulation/langsam/langsam_actor.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "langsam/langsamutils.py",
+    "sha256": "51c8d9b47802dad31de8bdbd6df9b8be95c76aec50a35fb898661d7152ec7673",
+    "destination": "MaskedGrasp/simulation/langsam/langsamutils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "langsam/GroundingDINO_SwinB_local_bert.cfg.py",
+    "sha256": "35b1258f4a824805b365bae578a01612bfc488da2551c3dc83a40f99b56eb77a",
+    "destination": "MaskedGrasp/simulation/langsam/GroundingDINO_SwinB_local_bert.cfg.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "evaluate_freegrasp_ssr.py",
+    "sha256": "e0607edec227de2d4c985199ef28410afbfd8f97dd2aa2b1181bea2f148cd0a4",
+    "destination": "MaskedGrasp/evaluate_target_ids.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case05-cup.txt",
+    "sha256": "74011a45c0f2d8843e97eab782fa79860d19ee186e7ed882c5f81e5adcdefa0a",
+    "destination": "MaskedGrasp/simulation/testing_cases/case05-cup.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case08-thera_med.txt",
+    "sha256": "99e9b79e76a15e5c1a0cdb0b823b2d611f9672d814ab51c5699f2191dcd30d76",
+    "destination": "MaskedGrasp/simulation/testing_cases/case08-thera_med.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case06-fruit.txt",
+    "sha256": "75a06ecd54ce29c31f602ea06ce5ab4bcae5570ac4fdd05ec82c945bd17a4d56",
+    "destination": "MaskedGrasp/simulation/testing_cases/case06-fruit.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case09-pear.txt",
+    "sha256": "d1e45b100fa1f6a257a57b44999991135725de5dd87008c001d736a1f7b55f33",
+    "destination": "MaskedGrasp/simulation/testing_cases/case09-pear.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case02-container.txt",
+    "sha256": "e58fc2bc4d1524032491557a57f3b2f4a477fc7b6980f5c67a54bdbad2defd94",
+    "destination": "MaskedGrasp/simulation/testing_cases/case02-container.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case04-cup.txt",
+    "sha256": "81b9a65a984d5f994c93c64149091535d4ff4e35767bb55d2245c0a4372e439f",
+    "destination": "MaskedGrasp/simulation/testing_cases/case04-cup.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case03-round.txt",
+    "sha256": "5f865b61c235732c2b020293d5086ae46000279515668d16f92d8b92a5955aa2",
+    "destination": "MaskedGrasp/simulation/testing_cases/case03-round.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case00-round.txt",
+    "sha256": "8fbf09f85edb57e8429d24507fcf0b4af4e51c4fd5dbca90853cccb45981a339",
+    "destination": "MaskedGrasp/simulation/testing_cases/case00-round.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case07-drink.txt",
+    "sha256": "b1603e3473a1aaa499a100b05d50f658f9aa8b7b692ff599db3b4c21023f9a54",
+    "destination": "MaskedGrasp/simulation/testing_cases/case07-drink.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "testing_cases/case01-eat.txt",
+    "sha256": "7f3203d9dc46e2950d9ca4c08fded1abe7b4c0c0ac71dd35ac44e5054c797076",
+    "destination": "MaskedGrasp/simulation/testing_cases/case01-eat.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case04-fruit.txt",
+    "sha256": "14cc2a0ca553de0f368e0ded949a93f94bdc19553c0aad8faa8ad0e62039454e",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case04-fruit.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case02-container.txt",
+    "sha256": "100cf0105bb19c8df0eba6fb61879de9aa38ebd7a8b986dcd9dd3b10cf9edd06",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case02-container.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case03-container_hard.txt",
+    "sha256": "9bdf049726fc569ea9c0685b816b6eef8d086e8dba42b04c293d940182e8db45",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case03-container_hard.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case05-fruit_hard.txt",
+    "sha256": "5b05dbc8edd3926307f385f598beb4a500c7bf5b5e54283e0a5059df9988c464",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case05-fruit_hard.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case00-round.txt",
+    "sha256": "d09b639f086223d8701dbd83c5305097f3ce7377d6827fb828f87decae03677b",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case00-round.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "heavy_unseen/case01-round_hard.txt",
+    "sha256": "137e6a888f48007fcecbc8f7efca88e64589de8aaa3597a8b8ef27c9ee5d40f8",
+    "destination": "MaskedGrasp/simulation/heavy_unseen/case01-round_hard.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "LICENCE",
+    "sha256": "98679f478515c0f5c50e720006d12b4c3800d488e8dccca4e59a657efbb86c6e",
+    "destination": "MaskedGrasp/licenses/FreeGrasp-CC-BY-NC-4.0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "LICENSE",
+    "sha256": "525d8c33dd0a7cc411d232984c9482318bd211916d0df68ccf4082028f608a7f",
+    "destination": "MaskedGrasp/licenses/ThinkGrasp-MIT.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/LICENSE",
+    "sha256": "a685959614b960ed104bef76a746183c56951aa1126e188e577b0502c3a976ce",
+    "destination": "MaskedGrasp/licenses/GraspNet-baseline-original.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output/out_easy_no_ambi_split0.json",
+    "sha256": "5e340b0384b3a7d4270e584fee521b44f12e2ad0f0e7c3dfd167f3457c5e8d80",
+    "destination": "withheld_materials/records/freegrasp/output/out_easy_no_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_no_ambi.json",
+    "sha256": "9ca7439e46b5054bab8dc1513f4c8329f9cb4a00a58ecd0f3fd9745e76bd0dd8",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_no_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_yes_ambi_split2.json",
+    "sha256": "cfc8db23cbcdd0ea383ef552319715e2fa59aab7b075d425631820f441cf3011",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_yes_ambi_split2.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_no_ambi_split2.json",
+    "sha256": "7e2c38d662cf9ffe7a6c3637f0bbece5f4b9b917b05c2d9a0e7ecf7054670701",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_no_ambi_split2.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_no_ambi_split1.json",
+    "sha256": "ea53c15cfc9cd9f69db0fbd6d2da730195f10a22c4146d1879c19f365a9cc895",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_no_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_yes_ambi_split1.json",
+    "sha256": "6d827bb7b4c4585315a5b0c5d82c4d6fea0573b39db7b8df062a827f719234ed",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_yes_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_yes_ambi_split1.json",
+    "sha256": "41576a529e1f4e4c439d9848abcf15ef9df41115c4b4e5dfe623ec68dcc737d3",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_yes_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_yes_ambi_split2.json",
+    "sha256": "6852c313cf39613d89468037cd6394e905563bc1d843fe1e61f42f2f6fc4a8d5",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_yes_ambi_split2.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_yes_ambi.json",
+    "sha256": "b530376dc83727ca92b74a04f245a082ffbf9cb7075b1180f716844d177ba610",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_yes_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_no_ambi_split1.json",
+    "sha256": "fa1ddbb525ab5b655f0e964743a1fa014d0c00b653ec888f96b88c326e4fe9f0",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_no_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_no_ambi_split2.json",
+    "sha256": "ca206407f0c3babcdf6982159c3f1aa7ee59e104d52a2be3b4b5cfc51b602d33",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_no_ambi_split2.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_no_ambi_split0.json",
+    "sha256": "5480287297df33574000429d4ce4d2e810207a2331ef6788f0c453a943467a73",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_no_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_yes_ambi_split2.json",
+    "sha256": "6ff752871899b73d5cff72be9f281b1a464c6a44fe591f06b48dc578dc4d5392",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_yes_ambi_split2.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_no_ambi_split0.json",
+    "sha256": "b7b68462bc0722184078587a5d0e7be57a8c746f192509f17dbbb0e5b1d945c8",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_no_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_yes_ambi.json",
+    "sha256": "3dd6c0258822cb01c7dc3d3f4c1e2cf01ae820c4380993cc1ad707c68ff5377d",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_yes_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_no_ambi_split1.json",
+    "sha256": "0831c30fa475772ea43a8642d918654b92f38cd5c67bb71b51d0cf01d8695e76",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_no_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_yes_ambi_split1.json",
+    "sha256": "6bb7c57bd1e92eece38e3a02ddb46c02222b2673e0140131d5da548cbe75dac5",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_yes_ambi_split1.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_no_ambi_split0.json",
+    "sha256": "98f0b566fa81abab70e3e526d0e2c0c6a25e0584e5dc6248dfd25a638cbb6361",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_no_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_no_ambi.json",
+    "sha256": "62930480165716c6b5ae2fed9d220f069a3e7a675ea7dfee22eb654f9867d4f5",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_no_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_yes_ambi_split0.json",
+    "sha256": "16b6d7eda54f43bcb2ebb612b02ffe82e4eee8eded18e1b5abffa5c549263574",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_yes_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_easy_yes_ambi_split0.json",
+    "sha256": "147ff0d6272f4bab26824cd7e9db0a6f2e26c49da82d8f8058adbf5e2c3f8bc4",
+    "destination": "withheld_materials/records/freegrasp/output1/out_easy_yes_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_yes_ambi.json",
+    "sha256": "273ff9a30dbeeb115dc42d05598a32d637e9d4af9991f019ae68dfde62003c97",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_yes_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_yes_ambi_split0.json",
+    "sha256": "9e95db6bbf4336c4392ead8e21350527281fa7f81ec1f63b547dd72681c95f80",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_yes_ambi_split0.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_medium_no_ambi.json",
+    "sha256": "53e703af87549f5d26f850bd274dfc927ca8ad3c55a62acabd77a58567d3f22d",
+    "destination": "withheld_materials/records/freegrasp/output1/out_medium_no_ambi.json"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "data/output1/out_hard_no_ambi_split2.json",
+    "sha256": "dd687dd67b89ab75a2a4c4eb2504576985d01f76e558b47e146d8e854be0e066",
+    "destination": "withheld_materials/records/freegrasp/output1/out_hard_no_ambi_split2.json"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "freegrasp_ssr_results.json",
+    "sha256": "d8bc6bc0888751f01b0fee3a5c6b5e1225474a09f7d955b253486ab0de544c31",
+    "destination": "withheld_materials/records/target_id/freegrasp_ssr_results.json"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "freegrasp_ssr_smoke.json",
+    "sha256": "b1ddb298d6efd3a3b4164ed67675237bc29b78a9b8980a769431dc572b1dcd83",
+    "destination": "withheld_materials/records/target_id/freegrasp_ssr_smoke.json"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case0.txt",
+    "sha256": "1e1865fc597a05d6ab8018bb10d95b3a5db634248da0624831854813bb9e8513",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case2.txt",
+    "sha256": "61a76e7f3afa94ab1d540487c044a54fe6d73a3d21883f40844091372ce1c5d3",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case8.txt",
+    "sha256": "198f79d408778ac434c3cf06efa55d876ccb4345e146fa35e4ae54cd07a46bbd",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case8.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case9.txt",
+    "sha256": "bae9fd969b55825aa81c78fcf7839d7f2ceda6b406ec6114bc233cab1f24b1d4",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case9.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case1.txt",
+    "sha256": "25d72e14d77ab97292affd5d005468cd05ffc0859724780aafbd0b14adcbf788",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case5.txt",
+    "sha256": "9b4c8415af2cc6ff888149fd369928fd5ae249f73e6e59ccac777d04a2cfb472",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case5.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case6.txt",
+    "sha256": "c9a491c42ec455d6df888e97017f40e0fe98eb4d5fd63b5d92d8f68a16c518dd",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case6.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case7.txt",
+    "sha256": "6b24156d28f0a791c2f2d7fc171563cdf7a58ce9bac516a5b1e4347292196fdb",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case7.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case3.txt",
+    "sha256": "11ff8ce834be0d269f5605604e8aa768bc702a829620f5cae2c28153e2a97085",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/results/case4.txt",
+    "sha256": "3f0b3397b91ad1bf56447bc2615c46eec1fe9f6c53bcddf3c4211df386d2b33f",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case0.txt",
+    "sha256": "27ce4727c5471607850860fa7dc44b5848c94b0e53fa10f5e6f5aedb171a93f8",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case2.txt",
+    "sha256": "31367f1b2f3f553a823cf9a6e0cd88d1cfbcb65739d52f49459394d5e79b3520",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case8.txt",
+    "sha256": "9d40848badc0840c6e5809c555ed7b414ed0c73ec44f19dd41f30f1e98124a5a",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case8.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case9.txt",
+    "sha256": "a67e6ef763f8734daadba9eeddf67376384aa7d440bd5472f9acba944a8cf289",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case9.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case1.txt",
+    "sha256": "f8ec3f55ff6e9a903ef86dffbfa7149736bd6bbb305806e2d21ef1a00d249c6f",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case5.txt",
+    "sha256": "aa990b0ff9bf06956f60b2e591bded1e65671c8c877a2a5093d8481cb37d4b30",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case5.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case6.txt",
+    "sha256": "2286341ba23c5471b1818634e5b110c29199c8e5fecbea544cb72e4a2bf8b063",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case6.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case7.txt",
+    "sha256": "cd5c79757ca200d636a91813fa2eb06805320441aa9cef7398e8a33b31ffb530",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case7.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case3.txt",
+    "sha256": "c1b171b9ac2af348afa0474d4a0df22ff9c962b4ad294ee892541742d323b539",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/results/case4.txt",
+    "sha256": "474f0379e07f54cb3312a081e3e94c89d48b99505058a541faac2c18211d2bb2",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-13-08-02-test/results/case0.txt",
+    "sha256": "e7de10320150af720df951336d67bd35b11e606646df1f5929bc628e4322f484",
+    "destination": "withheld_materials/records/simulation/2026-04-10-13-08-02-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case0.txt",
+    "sha256": "90f8ee9e635b48003107c8167fae3444be9e166c15e2db064ca69cb381670c0d",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case2.txt",
+    "sha256": "6953b215a3de7fdb448e75c98c036ba7dba8cd46c31bc084c4d57c916dc4d501",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case1.txt",
+    "sha256": "3e51b206dc3304965d2f9b177d130e7872ff551f8c54137f4f3e28ab242bb424",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case5.txt",
+    "sha256": "16dd712124c28d1926f6ecbf37768c3aa538e046659ed8b804ba5705df72262a",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case5.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case3.txt",
+    "sha256": "756510bce4d82af3fd973827d940358fe404cb46f6e6f4b7800308b4b184bb85",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/results/case4.txt",
+    "sha256": "31460f8866454e752c86f3228c562bfeccb3e76226c88ff9375004ff31aaf974",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-19-13-41-test/results/case0.txt",
+    "sha256": "967ac0eb693676a3976a0e414004726ba964fa2feea203b095a516638ade3a7e",
+    "destination": "withheld_materials/records/simulation/2026-04-12-19-13-41-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case0.txt",
+    "sha256": "dd9b1562a3347235390eed65da1f93c836e125e72f491c63409b6138b6b29787",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case2.txt",
+    "sha256": "7e5a0c22082df0b0bf85bdd6cbe57507432cbc1e5e631b757f1c0fad0003a7cd",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case1.txt",
+    "sha256": "dd9b1562a3347235390eed65da1f93c836e125e72f491c63409b6138b6b29787",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case5.txt",
+    "sha256": "f80c2a96b65ae1c5a89b2483ca67da675d5d30b54b32bfff063429a56df0ba43",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case5.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case3.txt",
+    "sha256": "7e5a0c22082df0b0bf85bdd6cbe57507432cbc1e5e631b757f1c0fad0003a7cd",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/results/case4.txt",
+    "sha256": "f80c2a96b65ae1c5a89b2483ca67da675d5d30b54b32bfff063429a56df0ba43",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-06-14-13-29-37-test/results/case0.txt",
+    "sha256": "1e1865fc597a05d6ab8018bb10d95b3a5db634248da0624831854813bb9e8513",
+    "destination": "withheld_materials/records/simulation/2026-06-14-13-29-37-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/results/case0.txt",
+    "sha256": "6f9c4ea093aee9f84ca9daa40cf6bf21d9761bba93278833cb9416aaca8d2302",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/results/case2.txt",
+    "sha256": "8692e6303db1a738c60d6382b778ab901d1e9d648f84e37e6a52d022a3b37d7e",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/results/case1.txt",
+    "sha256": "dd8c2b80775b44e9c199eebf97a405dd90abcf13c3349a07939072ea71fd8a05",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/results/case3.txt",
+    "sha256": "0602931316c637765cf9971b79684bd52eb83499bd610b13672b6a73dd5d4ce8",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/results/case4.txt",
+    "sha256": "24ea20329ba2d34225c003dee3a988a5aee01bae50aa64004aff3917138c638b",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case0.txt",
+    "sha256": "ca3d8eab4c1be652c6967dd64d3204df20bcb31f6fa3fe151a87acf37e19caf9",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case0.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case2.txt",
+    "sha256": "27353de6655bbe55030e4849730d1122f1e125d286385c6e5076817187505306",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case2.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case1.txt",
+    "sha256": "74a199e838e1a046a1a2a986872b39919e38c8d81feddfe0ad4c58597be1c514",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case1.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case5.txt",
+    "sha256": "e6de06aa67bc1bf96f4de382c71bd4671fd8ec6614dbc377bfc2a1d500210f74",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case5.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case3.txt",
+    "sha256": "925ad91ae404c8afd321dfa0f1614d389db93a9d92254860f286f0cae17fd14f",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case3.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/results/case4.txt",
+    "sha256": "47ef42ce20da188b0959d1b29abc3196955219629f8738d8f12ca010d8da1438",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/results/case4.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-19-07-07-test/step_diagnostics.jsonl",
+    "sha256": "fb0e40e19c89385fcbc00ca8adbd941e428b0349d1b7155d7260299a9814ab86",
+    "destination": "withheld_materials/records/simulation/2026-04-12-19-07-07-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-00-01-53-test/step_diagnostics.jsonl",
+    "sha256": "79914355c4b0363e0b46b239b02964265af708ad0b8ff9755be2d680b88a7e41",
+    "destination": "withheld_materials/records/simulation/2026-04-10-00-01-53-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-21-41-19-test/step_diagnostics.jsonl",
+    "sha256": "edc4d9f2fb6514d4b1d0c6bd3c277b8be0adc554246e28e14bf98b435a63c8b7",
+    "destination": "withheld_materials/records/simulation/2026-04-12-21-41-19-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-00-35-50-test/step_diagnostics.jsonl",
+    "sha256": "56bd7cded0983ecc873dcfb66fc21c39cf6fcb60549d632a342b050964ce8db2",
+    "destination": "withheld_materials/records/simulation/2026-04-10-00-35-50-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-06-12-22-26-49-test/step_diagnostics.jsonl",
+    "sha256": "718dddee9a6feb76bd25ca05861bf5e022b898c44b36ac8f8b3b0834d1e09371",
+    "destination": "withheld_materials/records/simulation/2026-06-12-22-26-49-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-13-13-15-55-test/step_diagnostics.jsonl",
+    "sha256": "756676930dd79e53b6c5d2c3b23361b13228c3109cbede662ed68d9af1825494",
+    "destination": "withheld_materials/records/simulation/2026-04-13-13-15-55-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-13-08-02-test/step_diagnostics.jsonl",
+    "sha256": "9eeb46f140ddc782c91082ae7bdd93ef7bf6ac217e22fbc89615b2543edbfb29",
+    "destination": "withheld_materials/records/simulation/2026-04-10-13-08-02-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-23-57-49-test/step_diagnostics.jsonl",
+    "sha256": "f97a6f70d3a781fd225fddc1e7e468df11c6b5ff512fbef1ff67fac1c6202e30",
+    "destination": "withheld_materials/records/simulation/2026-04-10-23-57-49-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-48-18-test/step_diagnostics.jsonl",
+    "sha256": "f88ad49bb5f4ac43aa3c31723d839f71ff855ed9c9911e39dd381d31d45ff395",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-48-18-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-19-13-41-test/step_diagnostics.jsonl",
+    "sha256": "9b9bc9cb0493ba8e280153b7527f7ee077a58ee9578d4c103d57013fd3e03f20",
+    "destination": "withheld_materials/records/simulation/2026-04-12-19-13-41-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-00-33-34-test/step_diagnostics.jsonl",
+    "sha256": "378fd8f70d9142cbd53d79247e8e2e1bc4ec531020ad4b043f4b84939797c0af",
+    "destination": "withheld_materials/records/simulation/2026-04-10-00-33-34-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-00-39-15-test/step_diagnostics.jsonl",
+    "sha256": "c748a4e1a6b6c73799193d940fd2e97bba1fdc2589ed9bdf8aeca058276e76e1",
+    "destination": "withheld_materials/records/simulation/2026-04-10-00-39-15-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-38-32-test/step_diagnostics.jsonl",
+    "sha256": "0c9e494dcebffb5601c4b37c15dd7c026086c60d0dd91ccadf5b5b326a22ab0b",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-38-32-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-19-21-07-test/step_diagnostics.jsonl",
+    "sha256": "287b30d57af79ff7dd28c554bd242483ed93ed5701856b9e360c1a4132dae00b",
+    "destination": "withheld_materials/records/simulation/2026-04-12-19-21-07-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-09-23-59-18-test/step_diagnostics.jsonl",
+    "sha256": "4e870e4f6470950532c5c33356a16d64788e7d6307b1516b19d1a6b5279874ed",
+    "destination": "withheld_materials/records/simulation/2026-04-09-23-59-18-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-12-18-59-07-test/step_diagnostics.jsonl",
+    "sha256": "f517117afe8947e6d49c76b04b02f951aabda6831b2ba8cff01b9675cccedda2",
+    "destination": "withheld_materials/records/simulation/2026-04-12-18-59-07-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-06-14-13-29-37-test/step_diagnostics.jsonl",
+    "sha256": "bae93a0943ef4ea0c1bd5beea3f4cb94291abbf4334e4341c8815c1e4f5e1f5f",
+    "destination": "withheld_materials/records/simulation/2026-06-14-13-29-37-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-10-01-11-57-test/step_diagnostics.jsonl",
+    "sha256": "f4d89f5d4e65a5eeafaa1fb6b4ac6f456bab98e0a53378905887d37190089da8",
+    "destination": "withheld_materials/records/simulation/2026-04-10-01-11-57-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "logs/2026-04-11-23-07-41-test/step_diagnostics.jsonl",
+    "sha256": "73909fdfee000e1c2a73fe50f55369e4c9a786d3e9eb70c92f773645c863d4e1",
+    "destination": "withheld_materials/records/simulation/2026-04-11-23-07-41-test/step_diagnostics.jsonl"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/train.py",
+    "sha256": "762ea95294bafa5d78476228090f33d56f346649101b618b16ad3ca749619671",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/train.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/__init__.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/requirements.txt",
+    "sha256": "5492c819ba95c5414e9a8717623cbb6ab64062a50a2b94da1618cd0541d5a11a",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/requirements.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/demo.py",
+    "sha256": "1c4de404dc8b41b4e6a5968e4c0493f098387192ca263bad5dd3614ce5103efa",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/demo.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/test.py",
+    "sha256": "7b0957d712eeb10b74d3aa876cf866d14859cb414876f4b8744177a21e1f98a8",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/test.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/model/modules.py",
+    "sha256": "8209efd3485ab578c4eefbed4d4c45965b8e35ec38bc1d60299ce92d3df1b044",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/model/modules.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/model/FGC_graspnet.py",
+    "sha256": "e6086fc171f00afe11beed7b275802e3252601c991b9f6ce660230b0915ba17b",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/model/FGC_graspnet.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/model/decode.py",
+    "sha256": "b49628c8e52aa95614541c47686e7fc3fd4090e9d707dd055040b06a0c24a948",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/model/decode.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/model/backbone.py",
+    "sha256": "12ae7cfa06567c48f5de4d5a45ab56fe3829c0ff7f770e56aee11c5d358742ee",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/model/backbone.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/model/loss.py",
+    "sha256": "be5034b3c3cc51a9c22146a979d253fe0a317e4fe2b74dfd523688f25847dadd",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/model/loss.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/vector.py",
+    "sha256": "7e8ea2fce433eff3f3916dc87ed29ecb4af3606a4a72c5a18cc9e4c68cce2066",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/vector.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/vis_grasp.py",
+    "sha256": "9316a16b19bb82eaae9298d24f3aaeb356c4166fd07080c4136e004765bfae16",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/vis_grasp.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/rnn_neighbor.py",
+    "sha256": "e770f015f9b2b7474b87989d66ef26c174383cfa2a730c84c2968011661f872a",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/rnn_neighbor.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/score_gen_mp.py",
+    "sha256": "fa7327ee1cf01b435adce463545358c654c40b796a4dd322f0a77311de181e27",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/score_gen_mp.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/contact_score.py",
+    "sha256": "8c8746c7e2ae2735d8784d4bee48ae68ba10cf6684d8d1dbf05ddc0fd9bf19aa",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/contact_score.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/score_allocation.py",
+    "sha256": "7562f3d9b252f7194e49c86c55eb7f302f3d9960be8fc16034e3a04e3fff1261",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/score_allocation.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/FGC_generate/contact_score_numba.py",
+    "sha256": "08cad9c2fff08f282b4b81b3cce1cced3d36a60afa2cdbba5dd07ea242d284d1",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/FGC_generate/contact_score_numba.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pytorch_utils.py",
+    "sha256": "c707663b5b300e9c037b975e9e82c046876d294d5c3fc1d89dd6050b74ac9053",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pytorch_utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/setup.py",
+    "sha256": "2c9af0c5d67df2c046a1f84253370d48051e667ab05db12db605d16df385394e",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/setup.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pointnet2_modules.py",
+    "sha256": "596e33dc445c1749cab4b1d0050ce410021f8616083bf0a0256f2b0f18916fe6",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pointnet2_modules.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pointnet2_utils.py",
+    "sha256": "40cc9492a09eeb41d270014b26a9eadd5f9d38749dda9acdffd954821febb115",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pointnet2_utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pointnet2.egg-info/top_level.txt",
+    "sha256": "e2a40e564bcab45d3d8b37462fbd166274267aec9971da81c79bd885c8f700a5",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pointnet2.egg-info/top_level.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pointnet2.egg-info/dependency_links.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pointnet2.egg-info/dependency_links.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/pointnet2.egg-info/SOURCES.txt",
+    "sha256": "3cdba59cfb096f597e69131ef216f1340b960121ab13239b5460c066396c111c",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/pointnet2.egg-info/SOURCES.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/utils.h",
+    "sha256": "7b1c92443bcd2606ef01dcb486507f9188cf9ef937591519aa286213b3ec605a",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/utils.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/ball_query.h",
+    "sha256": "53125ec94bbddc2d97b2cf1a2717f60f0082b501ba50fb699ae3067a629528ed",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/ball_query.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/cylinder_query.h",
+    "sha256": "3b334980cf17059a91a43f700ef7a7ca6fb046ca74c24beff2bc811dfec3ecd5",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/cylinder_query.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/sampling.h",
+    "sha256": "f9b12ba3d1785234f30f8f01fbaa4c48b5542a2d74edd1306468dac8d0dda311",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/sampling.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/interpolate.h",
+    "sha256": "4ec702d44bad19b3fd7cd83d2747416c66ca9d18404ab195a716becd7777cd37",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/interpolate.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/group_points.h",
+    "sha256": "9f4c2fbca4435287fde8d66f0950bf57721baa87d627652c7c3f830d5c524dff",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/group_points.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/include/cuda_utils.h",
+    "sha256": "d0a1de258136f9ca6212daba8484247229a0067584a20d26325a69be2c2ee9c8",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/include/cuda_utils.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/interpolate_gpu.cu",
+    "sha256": "4e95cecda15aa5e99455a86756584d5941610f2b49a5794532f5a157e7347e10",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/interpolate_gpu.cu"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/group_points_gpu.cu",
+    "sha256": "172ea7d72837aff731e5251c2b6298ed58f5ff69177dbfb45e8f18ea0aaf2868",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/group_points_gpu.cu"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/sampling.cpp",
+    "sha256": "aa17bcce55ac6bb05d07391d682d31f866745770d2d77c2cb9b55afd5f4e0660",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/sampling.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/bindings.cpp",
+    "sha256": "03e3b5dbc66aeecc17ecedcfe835f93d10ad7e730c1141f9c27644b45247bf27",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/bindings.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/ball_query_gpu.cu",
+    "sha256": "9e93ba75bd7a721db80157ef1c7cb4d7c8ed5cc382a336bc27e69ef6633b1c6d",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/ball_query_gpu.cu"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/cylinder_query_gpu.cu",
+    "sha256": "a2243313874c87d03734a8aa2f895508d9b664d2bca3305ca32b40d7ea056270",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/cylinder_query_gpu.cu"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/cylinder_query.cpp",
+    "sha256": "e93be94780810057b2aced89f05cd80c155cd47fa16616ff22a094ab806d3ea2",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/cylinder_query.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/group_points.cpp",
+    "sha256": "778535ba0e92f4ef9a3f9d9d9ad9db79d4e3fc093daf59841fae9f43a5cbb320",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/group_points.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/interpolate.cpp",
+    "sha256": "733a76c0fbf27a589232e8f509e9e200c8bd90644694289bbb2e540fd63a20ac",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/interpolate.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/sampling_gpu.cu",
+    "sha256": "cf602b8dd93a09a2d2cc27cca400a563250ac369d7a29cfa49cacc7f73e6b2ff",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/sampling_gpu.cu"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/pointnet2/_ext_src/src/ball_query.cpp",
+    "sha256": "0ba335c1905e560fa1a970b0ea51a89b565ecffb632bd1d5921c4e308d2dc4ae",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/pointnet2/_ext_src/src/ball_query.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/log/log_train.txt",
+    "sha256": "5b8b4bf8a2f56f13d31af8d68f2627da6ad4516fc552677f37ccabe8cfc1ecc6",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/log/log_train.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/utils/data_utils.py",
+    "sha256": "f08654c6d34ae05fb0728dfbb6f406cead23f5890e3938a8e662f61aae400a27",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/utils/data_utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/utils/misc.py",
+    "sha256": "51c09281f127e1d1e17386a1ce9bb827dfbc575477f85acbb0249ba3c2c00a8d",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/utils/misc.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/utils/label_generation.py",
+    "sha256": "c135aa742f8339ec6199c8268c26f1858ab82f069a8a7e4bd274664b858881c5",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/utils/label_generation.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/utils/loss_utils.py",
+    "sha256": "e819f36bf52a722959a011cdf6e4718aa78dd5fb016726a4f29eb213e6bae5bc",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/utils/loss_utils.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/utils/collision_detector.py",
+    "sha256": "86da4736bffeb72ff59bccf48c02273505a2af91dbbf995525812f25ee2a6812",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/utils/collision_detector.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/dataset/graspnet_dataset.py",
+    "sha256": "5bcbe62c9a566dcf50e85d18b4482d60d04c68ea4659925ee244e84b4606d5e6",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/dataset/graspnet_dataset.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/knn_modules.py",
+    "sha256": "422f9fd99fffef0bc49272ebec49f587a8b4b53ced54549cfe9825af131ceee5",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/knn_modules.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/setup.py",
+    "sha256": "c2d1aaad197474434ec55bd4bb4b6a42bce907e86bed5cb9c233d79ec5c14f23",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/setup.py"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/knn_pytorch.egg-info/top_level.txt",
+    "sha256": "874bc6bd97702dc91d39790923656238c229fd511032b9fef69bdbf611129dba",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/knn_pytorch.egg-info/top_level.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/knn_pytorch.egg-info/dependency_links.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/knn_pytorch.egg-info/dependency_links.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/knn_pytorch.egg-info/SOURCES.txt",
+    "sha256": "f8527efb0d4fabb734b73142b20a28d827b57cd5c329bc53219d12c3b15e1b80",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/knn_pytorch.egg-info/SOURCES.txt"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/knn.h",
+    "sha256": "2c6bf3243909adf70a4e79efe0e4d770ea7984b5b25e995c3890e8a06a8625fc",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/knn.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/vision.cpp",
+    "sha256": "69b78b63bf386800230d0025f4470eb0a892564aa08e6ec1561872abd228376d",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/vision.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/cpu/knn_cpu.cpp",
+    "sha256": "b3a66010ef13d571d364987b7cd476dc8facf97e4f4dd8c1618ba89cdfedeee7",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/cpu/knn_cpu.cpp"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/cpu/vision.h",
+    "sha256": "7638df5e3cc49116c4c65923f621799d0a296b220f724f35d47c617069741466",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/cpu/vision.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/cuda/vision.h",
+    "sha256": "8503c928bb9bedf6c0daf7f8b7fb582d2dcfd0e169b2d6162a0ec678477fb381",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/cuda/vision.h"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "source": "models/FGC_graspnet/knn/src/cuda/knn.cu",
+    "sha256": "22c9e3b10792a3c8730da35a65de8900476d79f5be72f8b51e2b8f9f4ee20a76",
+    "destination": "withheld_materials/third_party_source/freegrasp_models/FGC_graspnet/knn/src/cuda/knn.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/__init__.py",
+    "sha256": "0ab64a1b9df741770570ab56a790734da703c2fcb36d30496f9c3c08f8727bf5",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/__init__.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/graspnet_baseline.py",
+    "sha256": "b4c4b2efc3f2f4d996c522c05dcca622357b816ac317351d43df1584d942036f",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/graspnet_baseline.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/requirements.txt",
+    "sha256": "e3a458afc764c2524b6ec98f70afb6dfad8c807ddaafeed36215471085e38b48",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/requirements.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/LICENSE",
+    "sha256": "a685959614b960ed104bef76a746183c56951aa1126e188e577b0502c3a976ce",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/LICENSE"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pick_and_place.py",
+    "sha256": "93b7ff3a8df4e7f01cee73f8da9f7cf29fda27c0ec67a4f63ecfd6e153e934cf",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pick_and_place.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/__init__.py",
+    "sha256": "5117b8f267a1d73560b53539891b3d7359f64c9eb98fe327a4a1d9aafe107c80",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/__init__.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pytorch_utils.py",
+    "sha256": "c707663b5b300e9c037b975e9e82c046876d294d5c3fc1d89dd6050b74ac9053",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pytorch_utils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_version.py",
+    "sha256": "10f9a05ce7562a4b394bffd9307ecdbbac6901e56b6697f1685cb8a7292ec9e2",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_version.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/setup.py",
+    "sha256": "fc3099342ce412d53c132438850c331e099832b9b5be8d571b8ad2d69fdfa2d2",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/setup.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet2_modules.py",
+    "sha256": "7c87a7b2fbd2ca31d5e9b7c6734a84b11d00b6b5a2caf1e40162fa84bcc27dea",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet2_modules.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet2_utils.py",
+    "sha256": "01fa8048f1ecfe7c69d3f94d3943ed92e95fcc570ff1525547cd9a44856eb2f9",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet2_utils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/utils.h",
+    "sha256": "7b1c92443bcd2606ef01dcb486507f9188cf9ef937591519aa286213b3ec605a",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/utils.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/ball_query.h",
+    "sha256": "53125ec94bbddc2d97b2cf1a2717f60f0082b501ba50fb699ae3067a629528ed",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/ball_query.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/cylinder_query.h",
+    "sha256": "3b334980cf17059a91a43f700ef7a7ca6fb046ca74c24beff2bc811dfec3ecd5",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/cylinder_query.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/sampling.h",
+    "sha256": "e1b919a8bacf4c077dff6d86d2226df4eeb041e5d135be2a2d829c5de933d068",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/sampling.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/interpolate.h",
+    "sha256": "9d96cc311411e9e95cc03e47ea6d63269a1b888342d54d074348b967c96d07c8",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/interpolate.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/group_points.h",
+    "sha256": "e702934ff68b3030b052af38b469f00786ea7b3620e017ef58bcc4cf5f0d6325",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/group_points.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/include/cuda_utils.h",
+    "sha256": "de26c10e6748e61da7f6516863f2a20d923ccd78e539efdfe18db8a0aeb0a288",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/include/cuda_utils.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/interpolate_gpu.cu",
+    "sha256": "e4a327f15d49bcefe62bd72adc407157f97039c3b34037f8fc767b9a15936173",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/interpolate_gpu.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/group_points_gpu.cu",
+    "sha256": "cf0bc3c20f709ed5be113c5d2618d3d61dcc49fb2449d53323596c5d1d4857fb",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/group_points_gpu.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/sampling.cpp",
+    "sha256": "eb800bdb22cc5b2a3742eae1c125cd6883969c329a3e36c8c4d3d9de98246312",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/sampling.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/bindings.cpp",
+    "sha256": "d772c02e7818cd147f4eeb1c6873b6e0945edc1766ed5847d31dad818b52b9b9",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/bindings.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/ball_query_gpu.cu",
+    "sha256": "7253c10da9db4b02d25e43b7a713ee956dae27b4ec25220f1b2abbaccc79530f",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/ball_query_gpu.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/cylinder_query_gpu.cu",
+    "sha256": "a2243313874c87d03734a8aa2f895508d9b664d2bca3305ca32b40d7ea056270",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/cylinder_query_gpu.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/cylinder_query.cpp",
+    "sha256": "e93be94780810057b2aced89f05cd80c155cd47fa16616ff22a094ab806d3ea2",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/cylinder_query.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/group_points.cpp",
+    "sha256": "c8079fe09e1a35a6142545f3277c71c483b54e19653930378e2f2f1d3b9d7971",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/group_points.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/interpolate.cpp",
+    "sha256": "0fb9ca45eb12d9998618b69d42272f6a58814437a1a2803941e6b496944411a1",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/interpolate.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/sampling_gpu.cu",
+    "sha256": "a1ec92aabdb6e4ab3ad0b982ebb28fa79b1b1fc95e3accbfaa511ef9bc317fe4",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/sampling_gpu.cu"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/_ops/src/ball_query.cpp",
+    "sha256": "ff4b6076cfc3299faed905927391144511fdbfe807b14ae2970f26c1756f6aaa",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/_ops/src/ball_query.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet22.egg-info/top_level.txt",
+    "sha256": "9618ca35923bd03b4f655390d255963f2c9f53b68632e4bc5898e066b33bf2e8",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet22.egg-info/top_level.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet22.egg-info/requires.txt",
+    "sha256": "b27f0a8dddf6f20ed2ec121773b7164293306214d0f43de635e50f25ed5a06c6",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet22.egg-info/requires.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet22.egg-info/dependency_links.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet22.egg-info/dependency_links.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/pointnet2/pointnet22.egg-info/SOURCES.txt",
+    "sha256": "9784b778eb9b29027e07b9182f87746207f14aa1fc47e339a2849f6de9e15fc5",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/pointnet2/pointnet22.egg-info/SOURCES.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/utils/data_utils.py",
+    "sha256": "1daa7f04b8abb4ae2cfebcc73e741cac00dd198b2cc02164820b12558066c200",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/utils/data_utils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/utils/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/utils/__init__.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/utils/label_generation.py",
+    "sha256": "d80efacbc9328372c815758c68dd9883b22ed4398049232572f6cfc39edfcb2b",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/utils/label_generation.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/utils/loss_utils.py",
+    "sha256": "d3f2192bfa3ce9191a1e658d3eb1dbdb22f7c505a94c867395bce1b8b4ee66e6",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/utils/loss_utils.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/utils/collision_detector.py",
+    "sha256": "86da4736bffeb72ff59bccf48c02273505a2af91dbbf995525812f25ee2a6812",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/utils/collision_detector.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/dataset/generate_tolerance_label.py",
+    "sha256": "d310108e7133a140c1a050bec77af06c6232938d02ae025b01ac35f75b24bb0e",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/dataset/generate_tolerance_label.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/dataset/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/dataset/__init__.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/dataset/graspnet_dataset.py",
+    "sha256": "6151ee3f50828df9b5628af9191109aa599d88dede0508383f03a3d0227ccb64",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/dataset/graspnet_dataset.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/models/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/models/__init__.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/models/graspnet.py",
+    "sha256": "06d092f2e0178554ebcd38c772ef09037f1172443cd029b1370a005e0b62fd0a",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/models/graspnet.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/models/modules.py",
+    "sha256": "f86762185c771a504a7a4c59ee1818f0e7d783a366bb940f899edec029d12a00",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/models/modules.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/models/backbone.py",
+    "sha256": "84f81fefbe55362ab14d010c28c5aac6d338a203de7a031834874266e89cb530",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/models/backbone.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/models/loss.py",
+    "sha256": "47498738e4268412330007909139df75e272e9cdd59443a3d72fc32f7d84ba27",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/models/loss.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/knn_modules.py",
+    "sha256": "a24f6cb5bfaca09e677cf50a28adc0c04fe7f840cd43d7e9162b0640b43d87c2",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/knn_modules.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/setup.py",
+    "sha256": "c2d1aaad197474434ec55bd4bb4b6a42bce907e86bed5cb9c233d79ec5c14f23",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/setup.py"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/knn_pytorch.egg-info/top_level.txt",
+    "sha256": "874bc6bd97702dc91d39790923656238c229fd511032b9fef69bdbf611129dba",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/knn_pytorch.egg-info/top_level.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/knn_pytorch.egg-info/dependency_links.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/knn_pytorch.egg-info/dependency_links.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/knn_pytorch.egg-info/SOURCES.txt",
+    "sha256": "a6a9f96d9addc46432a9758c918a1729e3147c996ac9bf4974e468835a1a08de",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/knn_pytorch.egg-info/SOURCES.txt"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/knn.h",
+    "sha256": "3168973106d4a1d41ce80ca547769cc0d25e84814c43f45d8aec0cbe59cf0e14",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/knn.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/vision.cpp",
+    "sha256": "69b78b63bf386800230d0025f4470eb0a892564aa08e6ec1561872abd228376d",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/vision.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/cpu/knn_cpu.cpp",
+    "sha256": "b3a66010ef13d571d364987b7cd476dc8facf97e4f4dd8c1618ba89cdfedeee7",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/cpu/knn_cpu.cpp"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/cpu/vision.h",
+    "sha256": "7638df5e3cc49116c4c65923f621799d0a296b220f724f35d47c617069741466",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/cpu/vision.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/cuda/vision.h",
+    "sha256": "83f46916bc0262b31fe8af2219dbd0026510c2756340e9b9425085025fa4cac8",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/cuda/vision.h"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "source": "models/graspnet/knn/src/cuda/knn.cu",
+    "sha256": "22c9e3b10792a3c8730da35a65de8900476d79f5be72f8b51e2b8f9f4ee20a76",
+    "destination": "withheld_materials/third_party_source/simulation_models/graspnet/knn/src/cuda/knn.cu"
+  }
+]

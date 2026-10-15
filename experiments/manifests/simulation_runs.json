@@ -1,0 +1,823 @@
+[
+  {
+    "run": "2026-04-08-22-12-15-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-08-22-19-58-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-21-26-26-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-21-31-15-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-21-33-50-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-22-44-19-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-22-50-12-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-23-17-14-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-23-28-37-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-09-23-59-18-test",
+    "result_files": [],
+    "diagnostic_records": 5,
+    "diagnostic_sha256": "4e870e4f6470950532c5c33356a16d64788e7d6307b1516b19d1a6b5279874ed",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-00-01-53-test",
+    "result_files": [],
+    "diagnostic_records": 72,
+    "diagnostic_sha256": "79914355c4b0363e0b46b239b02964265af708ad0b8ff9755be2d680b88a7e41",
+    "recorded_target_hits": 3,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-00-25-23-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-00-33-34-test",
+    "result_files": [],
+    "diagnostic_records": 3,
+    "diagnostic_sha256": "378fd8f70d9142cbd53d79247e8e2e1bc4ec531020ad4b043f4b84939797c0af",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-00-35-50-test",
+    "result_files": [],
+    "diagnostic_records": 7,
+    "diagnostic_sha256": "56bd7cded0983ecc873dcfb66fc21c39cf6fcb60549d632a342b050964ce8db2",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-00-39-15-test",
+    "result_files": [],
+    "diagnostic_records": 120,
+    "diagnostic_sha256": "c748a4e1a6b6c73799193d940fd2e97bba1fdc2589ed9bdf8aeca058276e76e1",
+    "recorded_target_hits": 3,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-01-11-57-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "6f9c4ea093aee9f84ca9daa40cf6bf21d9761bba93278833cb9416aaca8d2302"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "dd8c2b80775b44e9c199eebf97a405dd90abcf13c3349a07939072ea71fd8a05"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "8692e6303db1a738c60d6382b778ab901d1e9d648f84e37e6a52d022a3b37d7e"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "0602931316c637765cf9971b79684bd52eb83499bd610b13672b6a73dd5d4ce8"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "24ea20329ba2d34225c003dee3a988a5aee01bae50aa64004aff3917138c638b"
+      }
+    ],
+    "diagnostic_records": 2440,
+    "diagnostic_sha256": "f4d89f5d4e65a5eeafaa1fb6b4ac6f456bab98e0a53378905887d37190089da8",
+    "recorded_target_hits": 50,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "base"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-13-08-02-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "e7de10320150af720df951336d67bd35b11e606646df1f5929bc628e4322f484"
+      }
+    ],
+    "diagnostic_records": 369,
+    "diagnostic_sha256": "9eeb46f140ddc782c91082ae7bdd93ef7bf6ac217e22fbc89615b2543edbfb29",
+    "recorded_target_hits": 21,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-10-23-57-49-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "90f8ee9e635b48003107c8167fae3444be9e166c15e2db064ca69cb381670c0d"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "3e51b206dc3304965d2f9b177d130e7872ff551f8c54137f4f3e28ab242bb424"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "6953b215a3de7fdb448e75c98c036ba7dba8cd46c31bc084c4d57c916dc4d501"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "756510bce4d82af3fd973827d940358fe404cb46f6e6f4b7800308b4b184bb85"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "31460f8866454e752c86f3228c562bfeccb3e76226c88ff9375004ff31aaf974"
+      },
+      {
+        "file": "results/case5.txt",
+        "sha256": "16dd712124c28d1926f6ecbf37768c3aa538e046659ed8b804ba5705df72262a"
+      }
+    ],
+    "diagnostic_records": 3021,
+    "diagnostic_sha256": "f97a6f70d3a781fd225fddc1e7e468df11c6b5ff512fbef1ff67fac1c6202e30",
+    "recorded_target_hits": 59,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-11-23-07-41-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "ca3d8eab4c1be652c6967dd64d3204df20bcb31f6fa3fe151a87acf37e19caf9"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "74a199e838e1a046a1a2a986872b39919e38c8d81feddfe0ad4c58597be1c514"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "27353de6655bbe55030e4849730d1122f1e125d286385c6e5076817187505306"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "925ad91ae404c8afd321dfa0f1614d389db93a9d92254860f286f0cae17fd14f"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "47ef42ce20da188b0959d1b29abc3196955219629f8738d8f12ca010d8da1438"
+      },
+      {
+        "file": "results/case5.txt",
+        "sha256": "e6de06aa67bc1bf96f4de382c71bd4671fd8ec6614dbc377bfc2a1d500210f74"
+      }
+    ],
+    "diagnostic_records": 2231,
+    "diagnostic_sha256": "73909fdfee000e1c2a73fe50f55369e4c9a786d3e9eb70c92f773645c863d4e1",
+    "recorded_target_hits": 61,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-18-38-32-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "dd9b1562a3347235390eed65da1f93c836e125e72f491c63409b6138b6b29787"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "dd9b1562a3347235390eed65da1f93c836e125e72f491c63409b6138b6b29787"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "7e5a0c22082df0b0bf85bdd6cbe57507432cbc1e5e631b757f1c0fad0003a7cd"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "7e5a0c22082df0b0bf85bdd6cbe57507432cbc1e5e631b757f1c0fad0003a7cd"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "f80c2a96b65ae1c5a89b2483ca67da675d5d30b54b32bfff063429a56df0ba43"
+      },
+      {
+        "file": "results/case5.txt",
+        "sha256": "f80c2a96b65ae1c5a89b2483ca67da675d5d30b54b32bfff063429a56df0ba43"
+      }
+    ],
+    "diagnostic_records": 6,
+    "diagnostic_sha256": "0c9e494dcebffb5601c4b37c15dd7c026086c60d0dd91ccadf5b5b326a22ab0b",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp",
+          "--num_episode",
+          "1"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-18-45-05-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-18-48-18-test",
+    "result_files": [],
+    "diagnostic_records": 6,
+    "diagnostic_sha256": "f88ad49bb5f4ac43aa3c31723d839f71ff855ed9c9911e39dd381d31d45ff395",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-18-59-07-test",
+    "result_files": [],
+    "diagnostic_records": 18,
+    "diagnostic_sha256": "f517117afe8947e6d49c76b04b02f951aabda6831b2ba8cff01b9675cccedda2",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp",
+          "--num_episode",
+          "1"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-19-07-07-test",
+    "result_files": [],
+    "diagnostic_records": 31,
+    "diagnostic_sha256": "fb0e40e19c89385fcbc00ca8adbd941e428b0349d1b7155d7260299a9814ab86",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp",
+          "--num_episode",
+          "1"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-19-13-41-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "967ac0eb693676a3976a0e414004726ba964fa2feea203b095a516638ade3a7e"
+      }
+    ],
+    "diagnostic_records": 82,
+    "diagnostic_sha256": "9b9bc9cb0493ba8e280153b7527f7ee077a58ee9578d4c103d57013fd3e03f20",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp",
+          "--num_episode",
+          "1"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-19-21-07-test",
+    "result_files": [],
+    "diagnostic_records": 3,
+    "diagnostic_sha256": "287b30d57af79ff7dd28c554bd242483ed93ed5701856b9e360c1a4132dae00b",
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--grasp_backend",
+          "freegrasp_remote",
+          "--freegrasp_api_url",
+          "http://127.0.0.1:8000/infer_grasp",
+          "--num_episode",
+          "1"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-12-21-41-19-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "1e1865fc597a05d6ab8018bb10d95b3a5db634248da0624831854813bb9e8513"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "25d72e14d77ab97292affd5d005468cd05ffc0859724780aafbd0b14adcbf788"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "61a76e7f3afa94ab1d540487c044a54fe6d73a3d21883f40844091372ce1c5d3"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "11ff8ce834be0d269f5605604e8aa768bc702a829620f5cae2c28153e2a97085"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "3f0b3397b91ad1bf56447bc2615c46eec1fe9f6c53bcddf3c4211df386d2b33f"
+      },
+      {
+        "file": "results/case5.txt",
+        "sha256": "9b4c8415af2cc6ff888149fd369928fd5ae249f73e6e59ccac777d04a2cfb472"
+      },
+      {
+        "file": "results/case6.txt",
+        "sha256": "c9a491c42ec455d6df888e97017f40e0fe98eb4d5fd63b5d92d8f68a16c518dd"
+      },
+      {
+        "file": "results/case7.txt",
+        "sha256": "6b24156d28f0a791c2f2d7fc171563cdf7a58ce9bac516a5b1e4347292196fdb"
+      },
+      {
+        "file": "results/case8.txt",
+        "sha256": "198f79d408778ac434c3cf06efa55d876ccb4345e146fa35e4ae54cd07a46bbd"
+      },
+      {
+        "file": "results/case9.txt",
+        "sha256": "bae9fd969b55825aa81c78fcf7839d7f2ceda6b406ec6114bc233cab1f24b1d4"
+      }
+    ],
+    "diagnostic_records": 1731,
+    "diagnostic_sha256": "edc4d9f2fb6514d4b1d0c6bd3c277b8be0adc554246e28e14bf98b435a63c8b7",
+    "recorded_target_hits": 136,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-04-13-13-15-55-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "27ce4727c5471607850860fa7dc44b5848c94b0e53fa10f5e6f5aedb171a93f8"
+      },
+      {
+        "file": "results/case1.txt",
+        "sha256": "f8ec3f55ff6e9a903ef86dffbfa7149736bd6bbb305806e2d21ef1a00d249c6f"
+      },
+      {
+        "file": "results/case2.txt",
+        "sha256": "31367f1b2f3f553a823cf9a6e0cd88d1cfbcb65739d52f49459394d5e79b3520"
+      },
+      {
+        "file": "results/case3.txt",
+        "sha256": "c1b171b9ac2af348afa0474d4a0df22ff9c962b4ad294ee892541742d323b539"
+      },
+      {
+        "file": "results/case4.txt",
+        "sha256": "474f0379e07f54cb3312a081e3e94c89d48b99505058a541faac2c18211d2bb2"
+      },
+      {
+        "file": "results/case5.txt",
+        "sha256": "aa990b0ff9bf06956f60b2e591bded1e65671c8c877a2a5093d8481cb37d4b30"
+      },
+      {
+        "file": "results/case6.txt",
+        "sha256": "2286341ba23c5471b1818634e5b110c29199c8e5fecbea544cb72e4a2bf8b063"
+      },
+      {
+        "file": "results/case7.txt",
+        "sha256": "cd5c79757ca200d636a91813fa2eb06805320441aa9cef7398e8a33b31ffb530"
+      },
+      {
+        "file": "results/case8.txt",
+        "sha256": "9d40848badc0840c6e5809c555ed7b414ed0c73ec44f19dd41f30f1e98124a5a"
+      },
+      {
+        "file": "results/case9.txt",
+        "sha256": "a67e6ef763f8734daadba9eeddf67376384aa7d440bd5472f9acba944a8cf289"
+      }
+    ],
+    "diagnostic_records": 1497,
+    "diagnostic_sha256": "756676930dd79e53b6c5d2c3b23361b13228c3109cbede662ed68d9af1825494",
+    "recorded_target_hits": 137,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "base"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-06-12-22-20-01-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-06-12-22-20-52-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-06-12-22-21-41-test",
+    "result_files": [],
+    "diagnostic_records": 0,
+    "diagnostic_sha256": null,
+    "recorded_target_hits": 0,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-06-12-22-26-49-test",
+    "result_files": [],
+    "diagnostic_records": 8,
+    "diagnostic_sha256": "718dddee9a6feb76bd25ca05861bf5e022b898c44b36ac8f8b3b0834d1e09371",
+    "recorded_target_hits": 8,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  },
+  {
+    "run": "2026-06-14-13-29-37-test",
+    "result_files": [
+      {
+        "file": "results/case0.txt",
+        "sha256": "1e1865fc597a05d6ab8018bb10d95b3a5db634248da0624831854813bb9e8513"
+      }
+    ],
+    "diagnostic_records": 22,
+    "diagnostic_sha256": "bae93a0943ef4ea0c1bd5beea3f4cb94291abbf4334e4341c8815c1e4f5e1f5f",
+    "recorded_target_hits": 18,
+    "launch": [
+      {
+        "args": [
+          "--vlm_backend",
+          "qwen_remote",
+          "--vlm_api_url",
+          "http://127.0.0.1:8008/generate",
+          "--vlm_prompt_variant",
+          "strict"
+        ],
+        "program": "simulation_main.py",
+        "linking_evidence": "output.log explicitly names run directory"
+      }
+    ],
+    "paper_method": "unassigned"
+  }
+]

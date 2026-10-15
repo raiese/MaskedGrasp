@@ -1,0 +1,1220 @@
+[
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "data/train-00000-of-00002.parquet",
+    "bytes": 474784251,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "data/npz_file.zip",
+    "bytes": 422420977,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "data/train-00001-of-00002.parquet",
+    "bytes": 459142188,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "logs/checkpoint_fgc.tar",
+    "bytes": 13568772,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00004-of-00007.safetensors",
+    "bytes": 4661160008,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00001-of-00007.safetensors",
+    "bytes": 4978535144,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00007-of-00007.safetensors",
+    "bytes": 3799846968,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00006-of-00007.safetensors",
+    "bytes": 4272090496,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00005-of-00007.safetensors",
+    "bytes": 4661160008,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00002-of-00007.safetensors",
+    "bytes": 4984150504,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "Molmo-7B-D-0924/model-00003-of-00007.safetensors",
+    "bytes": 4727238936,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/sam_vit_h_4b8939.pth",
+    "bytes": 2564550879,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/groundingdino_swinb_cogcoor.pth",
+    "bytes": 938057991,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/groundingdino_swint_ogc.pth",
+    "bytes": 693997677,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/pytorch_model.bin",
+    "bytes": 440473133,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/tf_model.h5",
+    "bytes": 536063208,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/model.safetensors",
+    "bytes": 440449768,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/rust_model.ot",
+    "bytes": 534240408,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/flax_model.msgpack",
+    "bytes": 438064459,
+    "action": "not copied"
+  },
+  {
+    "source_root": "FreeGrasp_code",
+    "path": "GroundingDINO_weights/bert-base-uncased/model.onnx",
+    "bytes": 532091246,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/assets.zip",
+    "bytes": 2430577441,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/objects.zip",
+    "bytes": 2380874617,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/unseen_objects_40.zip",
+    "bytes": 96760729,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/unseen_objects_40/014_two_color_hammer/visual.ply",
+    "bytes": 10897913,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/workspace/bamboo_rpoughness.png",
+    "bytes": 13772597,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/workspace/None_normal.png",
+    "bytes": 27748923,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/workspace/data/samurai_monastry.obj",
+    "bytes": 10020214,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/unseen_objects/two_color_hammer/visual.ply",
+    "bytes": 10897913,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/056/nontextured.ply",
+    "bytes": 36178476,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/056/textured.sdf",
+    "bytes": 10365727,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/003/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/003/textured.sdf",
+    "bytes": 10028208,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/003/nontextured_simplified.ply",
+    "bytes": 11004168,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/078/nontextured.ply",
+    "bytes": 38340669,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/078/textured.sdf",
+    "bytes": 10218591,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/052/nontextured.ply",
+    "bytes": 19066420,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/052/textured.sdf",
+    "bytes": 10038622,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/016/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/016/textured.sdf",
+    "bytes": 10890079,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/077/nontextured.ply",
+    "bytes": 23107116,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/077/textured.sdf",
+    "bytes": 10146687,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/085/nontextured.ply",
+    "bytes": 41222973,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/085/textured.sdf",
+    "bytes": 10298163,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/085/nontextured_simplified.ply",
+    "bytes": 10926969,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/073/nontextured.ply",
+    "bytes": 62371443,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/073/textured.sdf",
+    "bytes": 10505430,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/012/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/012/textured.sdf",
+    "bytes": 11008924,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/044/nontextured.ply",
+    "bytes": 16371320,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/044/textured.sdf",
+    "bytes": 10004096,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/065/nontextured.ply",
+    "bytes": 17296172,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/065/nontextured_simplified.ply",
+    "bytes": 11117140,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/007/nontextured.ply",
+    "bytes": 19398986,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/007/textured.sdf",
+    "bytes": 10320687,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/007/nontextured_simplified.ply",
+    "bytes": 12780653,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/017/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/017/textured.sdf",
+    "bytes": 10994639,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/013/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/013/textured.sdf",
+    "bytes": 10919751,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/046/nontextured.ply",
+    "bytes": 185455708,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/046/textured.sdf",
+    "bytes": 10012020,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/046/nontextured_simplified.ply",
+    "bytes": 37198085,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/035/nontextured.ply",
+    "bytes": 15990738,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/035/textured.sdf",
+    "bytes": 10060447,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/009/nontextured.ply",
+    "bytes": 19398986,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/025/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/014/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/014/textured.sdf",
+    "bytes": 10962890,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/064/nontextured.ply",
+    "bytes": 12932432,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/055/nontextured.ply",
+    "bytes": 11306030,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/042/nontextured.ply",
+    "bytes": 20963904,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/042/textured.sdf",
+    "bytes": 10085552,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/086/nontextured.ply",
+    "bytes": 36709630,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/086/textured.sdf",
+    "bytes": 10155359,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/005/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/032/nontextured.ply",
+    "bytes": 25782650,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/032/textured.sdf",
+    "bytes": 10308152,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/062/nontextured.ply",
+    "bytes": 13173880,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/066/nontextured.ply",
+    "bytes": 15666470,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/066/nontextured_simplified.ply",
+    "bytes": 11952886,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/050/nontextured.ply",
+    "bytes": 22159990,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/050/textured.sdf",
+    "bytes": 10148051,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/067/nontextured.ply",
+    "bytes": 22758704,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/067/textured.sdf",
+    "bytes": 10051257,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/058/nontextured.ply",
+    "bytes": 13008672,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/058/nontextured_simplified.ply",
+    "bytes": 11694603,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/059/nontextured.ply",
+    "bytes": 29699830,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/059/textured.sdf",
+    "bytes": 10218706,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/004/nontextured.ply",
+    "bytes": 19398858,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/004/textured.sdf",
+    "bytes": 10600168,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/063/nontextured.ply",
+    "bytes": 22302440,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/063/nontextured_simplified.ply",
+    "bytes": 13679563,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/000/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/000/textured.sdf",
+    "bytes": 10235402,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/000/texture_map.png",
+    "bytes": 10406605,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/000/nontextured_simplified.ply",
+    "bytes": 16308222,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/010/nontextured.ply",
+    "bytes": 18557502,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/010/nontextured_simplified.ply",
+    "bytes": 16020020,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/023/nontextured.ply",
+    "bytes": 128792015,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/023/textured.sdf",
+    "bytes": 10710057,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/023/nontextured_simplified.ply",
+    "bytes": 16238687,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/083/nontextured.ply",
+    "bytes": 55668799,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/083/textured.sdf",
+    "bytes": 10304272,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/071/nontextured.ply",
+    "bytes": 56378341,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/071/textured.sdf",
+    "bytes": 10790946,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/001/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/001/textured.sdf",
+    "bytes": 10121450,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/001/texture_map.png",
+    "bytes": 10860652,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/001/nontextured_simplified.ply",
+    "bytes": 10455914,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/039/nontextured.ply",
+    "bytes": 36652352,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/039/textured.sdf",
+    "bytes": 10343039,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/051/nontextured.ply",
+    "bytes": 23447482,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/051/textured.sdf",
+    "bytes": 10080020,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/036/nontextured.ply",
+    "bytes": 18652666,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/036/textured.sdf",
+    "bytes": 10066757,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/049/nontextured.ply",
+    "bytes": 21306084,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/049/textured.sdf",
+    "bytes": 10059696,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/081/nontextured.ply",
+    "bytes": 19871456,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/081/textured.sdf",
+    "bytes": 10047257,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/060/nontextured.ply",
+    "bytes": 27049742,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/060/textured.sdf",
+    "bytes": 10235868,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/037/nontextured.ply",
+    "bytes": 18086502,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/037/textured.sdf",
+    "bytes": 10049073,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/070/nontextured.ply",
+    "bytes": 27241200,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/070/textured.sdf",
+    "bytes": 10151132,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/045/nontextured.ply",
+    "bytes": 65883691,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/045/textured.sdf",
+    "bytes": 10241927,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/045/nontextured_simplified.ply",
+    "bytes": 21851575,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/040/nontextured.ply",
+    "bytes": 16423712,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/040/nontextured_simplified.ply",
+    "bytes": 11977439,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/069/nontextured.ply",
+    "bytes": 26296792,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/069/textured.sdf",
+    "bytes": 10183506,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/061/nontextured.ply",
+    "bytes": 18153906,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/061/textured.sdf",
+    "bytes": 10054959,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/027/nontextured.ply",
+    "bytes": 22274834,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/027/textured.sdf",
+    "bytes": 10445793,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/002/nontextured.ply",
+    "bytes": 19398666,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/002/textured.sdf",
+    "bytes": 10520025,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/076/nontextured.ply",
+    "bytes": 47187067,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/076/textured.sdf",
+    "bytes": 10507126,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/034/nontextured.ply",
+    "bytes": 18311600,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/034/textured.sdf",
+    "bytes": 10205977,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/030/nontextured.ply",
+    "bytes": 21103676,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/030/textured.sdf",
+    "bytes": 10198307,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/029/nontextured.ply",
+    "bytes": 24602498,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/029/textured.sdf",
+    "bytes": 10289851,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/006/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/006/textured.sdf",
+    "bytes": 10048819,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/006/nontextured_simplified.ply",
+    "bytes": 15479742,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/038/nontextured.ply",
+    "bytes": 18320110,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/038/textured.sdf",
+    "bytes": 10057671,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/054/nontextured.ply",
+    "bytes": 25471500,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/054/textured.sdf",
+    "bytes": 10282037,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/019/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/057/nontextured.ply",
+    "bytes": 34763690,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/057/textured.sdf",
+    "bytes": 10294825,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/033/nontextured.ply",
+    "bytes": 31115924,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/033/textured.sdf",
+    "bytes": 10011119,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/033/nontextured_simplified.ply",
+    "bytes": 18370287,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/022/nontextured.ply",
+    "bytes": 131324467,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/022/textured.sdf",
+    "bytes": 10783594,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/022/nontextured_simplified.ply",
+    "bytes": 16003253,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/075/nontextured.ply",
+    "bytes": 39756935,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/075/textured.sdf",
+    "bytes": 10249767,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/075/nontextured_simplified.ply",
+    "bytes": 11835199,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/072/nontextured.ply",
+    "bytes": 60397029,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/072/textured.sdf",
+    "bytes": 10532404,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/011/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/011/textured.sdf",
+    "bytes": 11201099,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/079/nontextured.ply",
+    "bytes": 25798008,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/079/textured.sdf",
+    "bytes": 10059008,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/053/nontextured.ply",
+    "bytes": 30908620,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/053/textured.sdf",
+    "bytes": 10380376,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/031/nontextured.ply",
+    "bytes": 23673936,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/031/textured.sdf",
+    "bytes": 10078426,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/084/nontextured.ply",
+    "bytes": 33419736,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/084/textured.sdf",
+    "bytes": 10192940,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/080/nontextured.ply",
+    "bytes": 55359381,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/080/textured.sdf",
+    "bytes": 10205605,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/087/nontextured.ply",
+    "bytes": 36839794,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/087/textured.sdf",
+    "bytes": 10297584,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/082/nontextured.ply",
+    "bytes": 29706604,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/082/textured.sdf",
+    "bytes": 10346513,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/074/nontextured.ply",
+    "bytes": 34921940,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/074/nontextured_simplified.ply",
+    "bytes": 26671742,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/048/nontextured.ply",
+    "bytes": 15792206,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/048/textured.sdf",
+    "bytes": 10015234,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/068/nontextured.ply",
+    "bytes": 22976930,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/068/textured.sdf",
+    "bytes": 10146574,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/028/nontextured.ply",
+    "bytes": 11522130,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/008/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/008/textured.sdf",
+    "bytes": 10085757,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/008/nontextured_simplified.ply",
+    "bytes": 13537867,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/026/nontextured.ply",
+    "bytes": 22050154,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/026/textured.sdf",
+    "bytes": 10210453,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/015/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/015/textured.sdf",
+    "bytes": 10304303,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/024/nontextured.ply",
+    "bytes": 22510896,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/024/nontextured_simplified.ply",
+    "bytes": 18926514,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/047/nontextured.ply",
+    "bytes": 29594972,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/047/textured.sdf",
+    "bytes": 10192101,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/021/nontextured.ply",
+    "bytes": 19399178,
+    "action": "not copied"
+  },
+  {
+    "source_root": "ThinkGrasp",
+    "path": "assets/simplified_objects/021/textured.sdf",
+    "bytes": 11064028,
+    "action": "not copied"
+  }
+]

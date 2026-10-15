@@ -1,0 +1,18 @@
+# Historical Python 3.8 profile. Install torch 1.13.1+cu117 and torchvision 0.14.1+cu117 separately.
+# Source dependencies and assets are listed in docs/SIMULATION.md.
+numpy==1.24.4
+pybullet==3.0.7
+open3d==0.15.2
+open3d-plus==0.1.0
+ray==2.10.0
+wandb==0.16.6
+transformers==4.46.3
+opencv-python<4.12
+scipy<1.11
+matplotlib<3.8
+Pillow<11
+imageio
+requests
+huggingface-hub<1
+openai<2
+gym==0.26.2
